@@ -1,0 +1,68 @@
+# Configuration for Wi-Fi CSI Human Activity Recognition Experiment
+
+dataset:
+  raw_data_dir: "c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data"
+  processed_data_dir: "c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/wifi_csi_experiment/data/processed"
+  activities:
+    1: "horizontal arm wave"
+    2: "vertical arm wave"
+    3: "draw circle (clockwise)"
+    4: "draw circle (counterclockwise)"
+    5: "draw tick"
+    6: "draw cross"
+    7: "come here gesture"
+    8: "wave gesture"
+    9: "bend"
+    10: "squat"
+    11: "walk"
+    12: "fall"
+    13: "run"
+    14: "sit down"
+    15: "stand up"
+    16: "pick up"
+  random_seed: 42
+
+preprocessing:
+  target_sequence_length: 500
+  num_subcarriers: 30
+  num_rx: 3
+  num_tx: 2
+  total_channels: 180  # 30 subcarriers * 3 Rx * 2 Tx
+  normalization: "minmax"  # options: minmax, zscore, none
+  remove_outliers: true
+  filter_type: "median"  # options: median, butterworth, none
+  median_kernel_size: 5
+
+split:
+  unseen_user:
+    train_subjects: ["volunteer_7", "volunteer_8", "volunteer_9", "volunteer_10", "volunteer_a", "volunteer_b", "volunteer_c", "volunteer_d"]
+    test_subjects: ["volunteer_e", "volunteer_f"]
+  random_split:
+    test_ratio: 0.2
+
+models:
+  cnn:
+    num_classes: 16
+    in_channels: 180
+    dropout: 0.3
+  lstm:
+    num_classes: 16
+    input_size: 180
+    hidden_size: 128
+    num_layers: 2
+    dropout: 0.3
+  cnn_lstm:
+    num_classes: 16
+    in_channels: 180
+    conv_out_channels: 64
+    hidden_size: 128
+    num_layers: 1
+    dropout: 0.3
+
+training:
+  epochs: 20
+  batch_size: 16
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  early_stopping_patience: 5
+  device: "auto"

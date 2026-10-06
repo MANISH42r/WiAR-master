@@ -1,0 +1,961 @@
+sample_id,file_path,subject_id,activity_id,activity_name,trial_id,processed_file
+sample_0000,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a1_1.dat,volunteer_10,1,horizontal arm wave,1,sample_0000_volunteer_10_a1_t1.npy
+sample_0001,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a1_2.dat,volunteer_10,1,horizontal arm wave,2,sample_0001_volunteer_10_a1_t2.npy
+sample_0002,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a1_3.dat,volunteer_10,1,horizontal arm wave,3,sample_0002_volunteer_10_a1_t3.npy
+sample_0003,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a1_4.dat,volunteer_10,1,horizontal arm wave,4,sample_0003_volunteer_10_a1_t4.npy
+sample_0004,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a1_5.dat,volunteer_10,1,horizontal arm wave,5,sample_0004_volunteer_10_a1_t5.npy
+sample_0005,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a1_6.dat,volunteer_10,1,horizontal arm wave,6,sample_0005_volunteer_10_a1_t6.npy
+sample_0006,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a2_1.dat,volunteer_10,2,vertical arm wave,1,sample_0006_volunteer_10_a2_t1.npy
+sample_0007,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a2_2.dat,volunteer_10,2,vertical arm wave,2,sample_0007_volunteer_10_a2_t2.npy
+sample_0008,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a2_3.dat,volunteer_10,2,vertical arm wave,3,sample_0008_volunteer_10_a2_t3.npy
+sample_0009,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a2_4.dat,volunteer_10,2,vertical arm wave,4,sample_0009_volunteer_10_a2_t4.npy
+sample_0010,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a2_5.dat,volunteer_10,2,vertical arm wave,5,sample_0010_volunteer_10_a2_t5.npy
+sample_0011,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a2_6.dat,volunteer_10,2,vertical arm wave,6,sample_0011_volunteer_10_a2_t6.npy
+sample_0012,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a3_1.dat,volunteer_10,3,draw circle (clockwise),1,sample_0012_volunteer_10_a3_t1.npy
+sample_0013,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a3_2.dat,volunteer_10,3,draw circle (clockwise),2,sample_0013_volunteer_10_a3_t2.npy
+sample_0014,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a3_3.dat,volunteer_10,3,draw circle (clockwise),3,sample_0014_volunteer_10_a3_t3.npy
+sample_0015,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a3_4.dat,volunteer_10,3,draw circle (clockwise),4,sample_0015_volunteer_10_a3_t4.npy
+sample_0016,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a3_5.dat,volunteer_10,3,draw circle (clockwise),5,sample_0016_volunteer_10_a3_t5.npy
+sample_0017,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a3_6.dat,volunteer_10,3,draw circle (clockwise),6,sample_0017_volunteer_10_a3_t6.npy
+sample_0018,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a4_1.dat,volunteer_10,4,draw circle (counterclockwise),1,sample_0018_volunteer_10_a4_t1.npy
+sample_0019,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a4_2.dat,volunteer_10,4,draw circle (counterclockwise),2,sample_0019_volunteer_10_a4_t2.npy
+sample_0020,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a4_3.dat,volunteer_10,4,draw circle (counterclockwise),3,sample_0020_volunteer_10_a4_t3.npy
+sample_0021,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a4_4.dat,volunteer_10,4,draw circle (counterclockwise),4,sample_0021_volunteer_10_a4_t4.npy
+sample_0022,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a4_5.dat,volunteer_10,4,draw circle (counterclockwise),5,sample_0022_volunteer_10_a4_t5.npy
+sample_0023,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a4_6.dat,volunteer_10,4,draw circle (counterclockwise),6,sample_0023_volunteer_10_a4_t6.npy
+sample_0024,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a5_1.dat,volunteer_10,5,draw tick,1,sample_0024_volunteer_10_a5_t1.npy
+sample_0025,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a5_2.dat,volunteer_10,5,draw tick,2,sample_0025_volunteer_10_a5_t2.npy
+sample_0026,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a5_3.dat,volunteer_10,5,draw tick,3,sample_0026_volunteer_10_a5_t3.npy
+sample_0027,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a5_4.dat,volunteer_10,5,draw tick,4,sample_0027_volunteer_10_a5_t4.npy
+sample_0028,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a5_5.dat,volunteer_10,5,draw tick,5,sample_0028_volunteer_10_a5_t5.npy
+sample_0029,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a5_6.dat,volunteer_10,5,draw tick,6,sample_0029_volunteer_10_a5_t6.npy
+sample_0030,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a6_1.dat,volunteer_10,6,draw cross,1,sample_0030_volunteer_10_a6_t1.npy
+sample_0031,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a6_2.dat,volunteer_10,6,draw cross,2,sample_0031_volunteer_10_a6_t2.npy
+sample_0032,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a6_3.dat,volunteer_10,6,draw cross,3,sample_0032_volunteer_10_a6_t3.npy
+sample_0033,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a6_4.dat,volunteer_10,6,draw cross,4,sample_0033_volunteer_10_a6_t4.npy
+sample_0034,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a6_5.dat,volunteer_10,6,draw cross,5,sample_0034_volunteer_10_a6_t5.npy
+sample_0035,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a6_6.dat,volunteer_10,6,draw cross,6,sample_0035_volunteer_10_a6_t6.npy
+sample_0036,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a7_1.dat,volunteer_10,7,come here gesture,1,sample_0036_volunteer_10_a7_t1.npy
+sample_0037,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a7_2.dat,volunteer_10,7,come here gesture,2,sample_0037_volunteer_10_a7_t2.npy
+sample_0038,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a7_3.dat,volunteer_10,7,come here gesture,3,sample_0038_volunteer_10_a7_t3.npy
+sample_0039,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a7_4.dat,volunteer_10,7,come here gesture,4,sample_0039_volunteer_10_a7_t4.npy
+sample_0040,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a7_5.dat,volunteer_10,7,come here gesture,5,sample_0040_volunteer_10_a7_t5.npy
+sample_0041,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a7_6.dat,volunteer_10,7,come here gesture,6,sample_0041_volunteer_10_a7_t6.npy
+sample_0042,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a8_1.dat,volunteer_10,8,wave gesture,1,sample_0042_volunteer_10_a8_t1.npy
+sample_0043,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a8_2.dat,volunteer_10,8,wave gesture,2,sample_0043_volunteer_10_a8_t2.npy
+sample_0044,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a8_3.dat,volunteer_10,8,wave gesture,3,sample_0044_volunteer_10_a8_t3.npy
+sample_0045,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a8_4.dat,volunteer_10,8,wave gesture,4,sample_0045_volunteer_10_a8_t4.npy
+sample_0046,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a8_5.dat,volunteer_10,8,wave gesture,5,sample_0046_volunteer_10_a8_t5.npy
+sample_0047,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a8_6.dat,volunteer_10,8,wave gesture,6,sample_0047_volunteer_10_a8_t6.npy
+sample_0048,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a9_1.dat,volunteer_10,9,bend,1,sample_0048_volunteer_10_a9_t1.npy
+sample_0049,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a9_2.dat,volunteer_10,9,bend,2,sample_0049_volunteer_10_a9_t2.npy
+sample_0050,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a9_3.dat,volunteer_10,9,bend,3,sample_0050_volunteer_10_a9_t3.npy
+sample_0051,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a9_4.dat,volunteer_10,9,bend,4,sample_0051_volunteer_10_a9_t4.npy
+sample_0052,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a9_5.dat,volunteer_10,9,bend,5,sample_0052_volunteer_10_a9_t5.npy
+sample_0053,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a9_6.dat,volunteer_10,9,bend,6,sample_0053_volunteer_10_a9_t6.npy
+sample_0054,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a10_1.dat,volunteer_10,10,squat,1,sample_0054_volunteer_10_a10_t1.npy
+sample_0055,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a10_2.dat,volunteer_10,10,squat,2,sample_0055_volunteer_10_a10_t2.npy
+sample_0056,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a10_3.dat,volunteer_10,10,squat,3,sample_0056_volunteer_10_a10_t3.npy
+sample_0057,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a10_4.dat,volunteer_10,10,squat,4,sample_0057_volunteer_10_a10_t4.npy
+sample_0058,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a10_5.dat,volunteer_10,10,squat,5,sample_0058_volunteer_10_a10_t5.npy
+sample_0059,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a10_6.dat,volunteer_10,10,squat,6,sample_0059_volunteer_10_a10_t6.npy
+sample_0060,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a11_1.dat,volunteer_10,11,walk,1,sample_0060_volunteer_10_a11_t1.npy
+sample_0061,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a11_2.dat,volunteer_10,11,walk,2,sample_0061_volunteer_10_a11_t2.npy
+sample_0062,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a11_3.dat,volunteer_10,11,walk,3,sample_0062_volunteer_10_a11_t3.npy
+sample_0063,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a11_4.dat,volunteer_10,11,walk,4,sample_0063_volunteer_10_a11_t4.npy
+sample_0064,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a11_5.dat,volunteer_10,11,walk,5,sample_0064_volunteer_10_a11_t5.npy
+sample_0065,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a11_6.dat,volunteer_10,11,walk,6,sample_0065_volunteer_10_a11_t6.npy
+sample_0066,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a12_1.dat,volunteer_10,12,fall,1,sample_0066_volunteer_10_a12_t1.npy
+sample_0067,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a12_2.dat,volunteer_10,12,fall,2,sample_0067_volunteer_10_a12_t2.npy
+sample_0068,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a12_3.dat,volunteer_10,12,fall,3,sample_0068_volunteer_10_a12_t3.npy
+sample_0069,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a12_4.dat,volunteer_10,12,fall,4,sample_0069_volunteer_10_a12_t4.npy
+sample_0070,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a12_5.dat,volunteer_10,12,fall,5,sample_0070_volunteer_10_a12_t5.npy
+sample_0071,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a12_6.dat,volunteer_10,12,fall,6,sample_0071_volunteer_10_a12_t6.npy
+sample_0072,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a13_1.dat,volunteer_10,13,run,1,sample_0072_volunteer_10_a13_t1.npy
+sample_0073,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a13_2.dat,volunteer_10,13,run,2,sample_0073_volunteer_10_a13_t2.npy
+sample_0074,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a13_3.dat,volunteer_10,13,run,3,sample_0074_volunteer_10_a13_t3.npy
+sample_0075,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a13_4.dat,volunteer_10,13,run,4,sample_0075_volunteer_10_a13_t4.npy
+sample_0076,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a13_5.dat,volunteer_10,13,run,5,sample_0076_volunteer_10_a13_t5.npy
+sample_0077,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a13_6.dat,volunteer_10,13,run,6,sample_0077_volunteer_10_a13_t6.npy
+sample_0078,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a14_1.dat,volunteer_10,14,sit down,1,sample_0078_volunteer_10_a14_t1.npy
+sample_0079,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a14_2.dat,volunteer_10,14,sit down,2,sample_0079_volunteer_10_a14_t2.npy
+sample_0080,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a14_3.dat,volunteer_10,14,sit down,3,sample_0080_volunteer_10_a14_t3.npy
+sample_0081,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a14_4.dat,volunteer_10,14,sit down,4,sample_0081_volunteer_10_a14_t4.npy
+sample_0082,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a14_5.dat,volunteer_10,14,sit down,5,sample_0082_volunteer_10_a14_t5.npy
+sample_0083,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a14_6.dat,volunteer_10,14,sit down,6,sample_0083_volunteer_10_a14_t6.npy
+sample_0084,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a15_1.dat,volunteer_10,15,stand up,1,sample_0084_volunteer_10_a15_t1.npy
+sample_0085,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a15_2.dat,volunteer_10,15,stand up,2,sample_0085_volunteer_10_a15_t2.npy
+sample_0086,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a15_3.dat,volunteer_10,15,stand up,3,sample_0086_volunteer_10_a15_t3.npy
+sample_0087,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a15_4.dat,volunteer_10,15,stand up,4,sample_0087_volunteer_10_a15_t4.npy
+sample_0088,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a15_5.dat,volunteer_10,15,stand up,5,sample_0088_volunteer_10_a15_t5.npy
+sample_0089,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a15_6.dat,volunteer_10,15,stand up,6,sample_0089_volunteer_10_a15_t6.npy
+sample_0090,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a16_1.dat,volunteer_10,16,pick up,1,sample_0090_volunteer_10_a16_t1.npy
+sample_0091,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a16_2.dat,volunteer_10,16,pick up,2,sample_0091_volunteer_10_a16_t2.npy
+sample_0092,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a16_3.dat,volunteer_10,16,pick up,3,sample_0092_volunteer_10_a16_t3.npy
+sample_0093,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a16_4.dat,volunteer_10,16,pick up,4,sample_0093_volunteer_10_a16_t4.npy
+sample_0094,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a16_5.dat,volunteer_10,16,pick up,5,sample_0094_volunteer_10_a16_t5.npy
+sample_0095,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_10\volunteer_10\csi_a16_6.dat,volunteer_10,16,pick up,6,sample_0095_volunteer_10_a16_t6.npy
+sample_0096,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a1_1.dat,volunteer_7,1,horizontal arm wave,1,sample_0096_volunteer_7_a1_t1.npy
+sample_0097,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a1_2.dat,volunteer_7,1,horizontal arm wave,2,sample_0097_volunteer_7_a1_t2.npy
+sample_0098,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a1_3.dat,volunteer_7,1,horizontal arm wave,3,sample_0098_volunteer_7_a1_t3.npy
+sample_0099,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a1_4.dat,volunteer_7,1,horizontal arm wave,4,sample_0099_volunteer_7_a1_t4.npy
+sample_0100,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a1_5.dat,volunteer_7,1,horizontal arm wave,5,sample_0100_volunteer_7_a1_t5.npy
+sample_0101,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a1_6.dat,volunteer_7,1,horizontal arm wave,6,sample_0101_volunteer_7_a1_t6.npy
+sample_0102,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a2_1.dat,volunteer_7,2,vertical arm wave,1,sample_0102_volunteer_7_a2_t1.npy
+sample_0103,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a2_2.dat,volunteer_7,2,vertical arm wave,2,sample_0103_volunteer_7_a2_t2.npy
+sample_0104,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a2_3.dat,volunteer_7,2,vertical arm wave,3,sample_0104_volunteer_7_a2_t3.npy
+sample_0105,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a2_4.dat,volunteer_7,2,vertical arm wave,4,sample_0105_volunteer_7_a2_t4.npy
+sample_0106,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a2_5.dat,volunteer_7,2,vertical arm wave,5,sample_0106_volunteer_7_a2_t5.npy
+sample_0107,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a2_6.dat,volunteer_7,2,vertical arm wave,6,sample_0107_volunteer_7_a2_t6.npy
+sample_0108,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a3_1.dat,volunteer_7,3,draw circle (clockwise),1,sample_0108_volunteer_7_a3_t1.npy
+sample_0109,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a3_2.dat,volunteer_7,3,draw circle (clockwise),2,sample_0109_volunteer_7_a3_t2.npy
+sample_0110,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a3_3.dat,volunteer_7,3,draw circle (clockwise),3,sample_0110_volunteer_7_a3_t3.npy
+sample_0111,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a3_4.dat,volunteer_7,3,draw circle (clockwise),4,sample_0111_volunteer_7_a3_t4.npy
+sample_0112,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a3_5.dat,volunteer_7,3,draw circle (clockwise),5,sample_0112_volunteer_7_a3_t5.npy
+sample_0113,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a3_6.dat,volunteer_7,3,draw circle (clockwise),6,sample_0113_volunteer_7_a3_t6.npy
+sample_0114,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a4_1.dat,volunteer_7,4,draw circle (counterclockwise),1,sample_0114_volunteer_7_a4_t1.npy
+sample_0115,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a4_2.dat,volunteer_7,4,draw circle (counterclockwise),2,sample_0115_volunteer_7_a4_t2.npy
+sample_0116,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a4_3.dat,volunteer_7,4,draw circle (counterclockwise),3,sample_0116_volunteer_7_a4_t3.npy
+sample_0117,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a4_4.dat,volunteer_7,4,draw circle (counterclockwise),4,sample_0117_volunteer_7_a4_t4.npy
+sample_0118,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a4_5.dat,volunteer_7,4,draw circle (counterclockwise),5,sample_0118_volunteer_7_a4_t5.npy
+sample_0119,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a4_6.dat,volunteer_7,4,draw circle (counterclockwise),6,sample_0119_volunteer_7_a4_t6.npy
+sample_0120,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a5_1.dat,volunteer_7,5,draw tick,1,sample_0120_volunteer_7_a5_t1.npy
+sample_0121,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a5_2.dat,volunteer_7,5,draw tick,2,sample_0121_volunteer_7_a5_t2.npy
+sample_0122,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a5_3.dat,volunteer_7,5,draw tick,3,sample_0122_volunteer_7_a5_t3.npy
+sample_0123,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a5_4.dat,volunteer_7,5,draw tick,4,sample_0123_volunteer_7_a5_t4.npy
+sample_0124,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a5_5.dat,volunteer_7,5,draw tick,5,sample_0124_volunteer_7_a5_t5.npy
+sample_0125,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a5_6.dat,volunteer_7,5,draw tick,6,sample_0125_volunteer_7_a5_t6.npy
+sample_0126,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a6_1.dat,volunteer_7,6,draw cross,1,sample_0126_volunteer_7_a6_t1.npy
+sample_0127,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a6_2.dat,volunteer_7,6,draw cross,2,sample_0127_volunteer_7_a6_t2.npy
+sample_0128,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a6_3.dat,volunteer_7,6,draw cross,3,sample_0128_volunteer_7_a6_t3.npy
+sample_0129,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a6_4.dat,volunteer_7,6,draw cross,4,sample_0129_volunteer_7_a6_t4.npy
+sample_0130,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a6_5.dat,volunteer_7,6,draw cross,5,sample_0130_volunteer_7_a6_t5.npy
+sample_0131,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a6_6.dat,volunteer_7,6,draw cross,6,sample_0131_volunteer_7_a6_t6.npy
+sample_0132,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a7_1.dat,volunteer_7,7,come here gesture,1,sample_0132_volunteer_7_a7_t1.npy
+sample_0133,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a7_2.dat,volunteer_7,7,come here gesture,2,sample_0133_volunteer_7_a7_t2.npy
+sample_0134,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a7_3.dat,volunteer_7,7,come here gesture,3,sample_0134_volunteer_7_a7_t3.npy
+sample_0135,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a7_4.dat,volunteer_7,7,come here gesture,4,sample_0135_volunteer_7_a7_t4.npy
+sample_0136,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a7_5.dat,volunteer_7,7,come here gesture,5,sample_0136_volunteer_7_a7_t5.npy
+sample_0137,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a7_6.dat,volunteer_7,7,come here gesture,6,sample_0137_volunteer_7_a7_t6.npy
+sample_0138,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a8_1.dat,volunteer_7,8,wave gesture,1,sample_0138_volunteer_7_a8_t1.npy
+sample_0139,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a8_2.dat,volunteer_7,8,wave gesture,2,sample_0139_volunteer_7_a8_t2.npy
+sample_0140,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a8_3.dat,volunteer_7,8,wave gesture,3,sample_0140_volunteer_7_a8_t3.npy
+sample_0141,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a8_4.dat,volunteer_7,8,wave gesture,4,sample_0141_volunteer_7_a8_t4.npy
+sample_0142,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a8_5.dat,volunteer_7,8,wave gesture,5,sample_0142_volunteer_7_a8_t5.npy
+sample_0143,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a8_6.dat,volunteer_7,8,wave gesture,6,sample_0143_volunteer_7_a8_t6.npy
+sample_0144,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a9_1.dat,volunteer_7,9,bend,1,sample_0144_volunteer_7_a9_t1.npy
+sample_0145,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a9_2.dat,volunteer_7,9,bend,2,sample_0145_volunteer_7_a9_t2.npy
+sample_0146,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a9_3.dat,volunteer_7,9,bend,3,sample_0146_volunteer_7_a9_t3.npy
+sample_0147,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a9_4.dat,volunteer_7,9,bend,4,sample_0147_volunteer_7_a9_t4.npy
+sample_0148,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a9_5.dat,volunteer_7,9,bend,5,sample_0148_volunteer_7_a9_t5.npy
+sample_0149,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a9_6.dat,volunteer_7,9,bend,6,sample_0149_volunteer_7_a9_t6.npy
+sample_0150,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a10_1.dat,volunteer_7,10,squat,1,sample_0150_volunteer_7_a10_t1.npy
+sample_0151,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a10_2.dat,volunteer_7,10,squat,2,sample_0151_volunteer_7_a10_t2.npy
+sample_0152,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a10_3.dat,volunteer_7,10,squat,3,sample_0152_volunteer_7_a10_t3.npy
+sample_0153,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a10_4.dat,volunteer_7,10,squat,4,sample_0153_volunteer_7_a10_t4.npy
+sample_0154,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a10_5.dat,volunteer_7,10,squat,5,sample_0154_volunteer_7_a10_t5.npy
+sample_0155,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a10_6.dat,volunteer_7,10,squat,6,sample_0155_volunteer_7_a10_t6.npy
+sample_0156,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a11_1.dat,volunteer_7,11,walk,1,sample_0156_volunteer_7_a11_t1.npy
+sample_0157,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a11_2.dat,volunteer_7,11,walk,2,sample_0157_volunteer_7_a11_t2.npy
+sample_0158,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a11_3.dat,volunteer_7,11,walk,3,sample_0158_volunteer_7_a11_t3.npy
+sample_0159,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a11_4.dat,volunteer_7,11,walk,4,sample_0159_volunteer_7_a11_t4.npy
+sample_0160,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a11_5.dat,volunteer_7,11,walk,5,sample_0160_volunteer_7_a11_t5.npy
+sample_0161,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a11_6.dat,volunteer_7,11,walk,6,sample_0161_volunteer_7_a11_t6.npy
+sample_0162,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a12_1.dat,volunteer_7,12,fall,1,sample_0162_volunteer_7_a12_t1.npy
+sample_0163,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a12_2.dat,volunteer_7,12,fall,2,sample_0163_volunteer_7_a12_t2.npy
+sample_0164,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a12_3.dat,volunteer_7,12,fall,3,sample_0164_volunteer_7_a12_t3.npy
+sample_0165,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a12_4.dat,volunteer_7,12,fall,4,sample_0165_volunteer_7_a12_t4.npy
+sample_0166,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a12_5.dat,volunteer_7,12,fall,5,sample_0166_volunteer_7_a12_t5.npy
+sample_0167,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a12_6.dat,volunteer_7,12,fall,6,sample_0167_volunteer_7_a12_t6.npy
+sample_0168,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a13_1.dat,volunteer_7,13,run,1,sample_0168_volunteer_7_a13_t1.npy
+sample_0169,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a13_2.dat,volunteer_7,13,run,2,sample_0169_volunteer_7_a13_t2.npy
+sample_0170,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a13_3.dat,volunteer_7,13,run,3,sample_0170_volunteer_7_a13_t3.npy
+sample_0171,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a13_4.dat,volunteer_7,13,run,4,sample_0171_volunteer_7_a13_t4.npy
+sample_0172,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a13_5.dat,volunteer_7,13,run,5,sample_0172_volunteer_7_a13_t5.npy
+sample_0173,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a13_6.dat,volunteer_7,13,run,6,sample_0173_volunteer_7_a13_t6.npy
+sample_0174,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a14_1.dat,volunteer_7,14,sit down,1,sample_0174_volunteer_7_a14_t1.npy
+sample_0175,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a14_2.dat,volunteer_7,14,sit down,2,sample_0175_volunteer_7_a14_t2.npy
+sample_0176,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a14_3.dat,volunteer_7,14,sit down,3,sample_0176_volunteer_7_a14_t3.npy
+sample_0177,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a14_4.dat,volunteer_7,14,sit down,4,sample_0177_volunteer_7_a14_t4.npy
+sample_0178,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a14_5.dat,volunteer_7,14,sit down,5,sample_0178_volunteer_7_a14_t5.npy
+sample_0179,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a14_6.dat,volunteer_7,14,sit down,6,sample_0179_volunteer_7_a14_t6.npy
+sample_0180,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a15_1.dat,volunteer_7,15,stand up,1,sample_0180_volunteer_7_a15_t1.npy
+sample_0181,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a15_2.dat,volunteer_7,15,stand up,2,sample_0181_volunteer_7_a15_t2.npy
+sample_0182,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a15_3.dat,volunteer_7,15,stand up,3,sample_0182_volunteer_7_a15_t3.npy
+sample_0183,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a15_4.dat,volunteer_7,15,stand up,4,sample_0183_volunteer_7_a15_t4.npy
+sample_0184,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a15_5.dat,volunteer_7,15,stand up,5,sample_0184_volunteer_7_a15_t5.npy
+sample_0185,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a15_6.dat,volunteer_7,15,stand up,6,sample_0185_volunteer_7_a15_t6.npy
+sample_0186,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a16_1.dat,volunteer_7,16,pick up,1,sample_0186_volunteer_7_a16_t1.npy
+sample_0187,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a16_2.dat,volunteer_7,16,pick up,2,sample_0187_volunteer_7_a16_t2.npy
+sample_0188,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a16_3.dat,volunteer_7,16,pick up,3,sample_0188_volunteer_7_a16_t3.npy
+sample_0189,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a16_4.dat,volunteer_7,16,pick up,4,sample_0189_volunteer_7_a16_t4.npy
+sample_0190,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a16_5.dat,volunteer_7,16,pick up,5,sample_0190_volunteer_7_a16_t5.npy
+sample_0191,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_7\volunteer_7\csi_a16_6.dat,volunteer_7,16,pick up,6,sample_0191_volunteer_7_a16_t6.npy
+sample_0192,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a1_1.dat,volunteer_8,1,horizontal arm wave,1,sample_0192_volunteer_8_a1_t1.npy
+sample_0193,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a1_2.dat,volunteer_8,1,horizontal arm wave,2,sample_0193_volunteer_8_a1_t2.npy
+sample_0194,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a1_3.dat,volunteer_8,1,horizontal arm wave,3,sample_0194_volunteer_8_a1_t3.npy
+sample_0195,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a1_4.dat,volunteer_8,1,horizontal arm wave,4,sample_0195_volunteer_8_a1_t4.npy
+sample_0196,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a1_5.dat,volunteer_8,1,horizontal arm wave,5,sample_0196_volunteer_8_a1_t5.npy
+sample_0197,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a1_6.dat,volunteer_8,1,horizontal arm wave,6,sample_0197_volunteer_8_a1_t6.npy
+sample_0198,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a2_1.dat,volunteer_8,2,vertical arm wave,1,sample_0198_volunteer_8_a2_t1.npy
+sample_0199,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a2_2.dat,volunteer_8,2,vertical arm wave,2,sample_0199_volunteer_8_a2_t2.npy
+sample_0200,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a2_3.dat,volunteer_8,2,vertical arm wave,3,sample_0200_volunteer_8_a2_t3.npy
+sample_0201,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a2_4.dat,volunteer_8,2,vertical arm wave,4,sample_0201_volunteer_8_a2_t4.npy
+sample_0202,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a2_5.dat,volunteer_8,2,vertical arm wave,5,sample_0202_volunteer_8_a2_t5.npy
+sample_0203,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a2_6.dat,volunteer_8,2,vertical arm wave,6,sample_0203_volunteer_8_a2_t6.npy
+sample_0204,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a3_1.dat,volunteer_8,3,draw circle (clockwise),1,sample_0204_volunteer_8_a3_t1.npy
+sample_0205,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a3_2.dat,volunteer_8,3,draw circle (clockwise),2,sample_0205_volunteer_8_a3_t2.npy
+sample_0206,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a3_3.dat,volunteer_8,3,draw circle (clockwise),3,sample_0206_volunteer_8_a3_t3.npy
+sample_0207,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a3_4.dat,volunteer_8,3,draw circle (clockwise),4,sample_0207_volunteer_8_a3_t4.npy
+sample_0208,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a3_5.dat,volunteer_8,3,draw circle (clockwise),5,sample_0208_volunteer_8_a3_t5.npy
+sample_0209,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a3_6.dat,volunteer_8,3,draw circle (clockwise),6,sample_0209_volunteer_8_a3_t6.npy
+sample_0210,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a4_1.dat,volunteer_8,4,draw circle (counterclockwise),1,sample_0210_volunteer_8_a4_t1.npy
+sample_0211,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a4_2.dat,volunteer_8,4,draw circle (counterclockwise),2,sample_0211_volunteer_8_a4_t2.npy
+sample_0212,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a4_3.dat,volunteer_8,4,draw circle (counterclockwise),3,sample_0212_volunteer_8_a4_t3.npy
+sample_0213,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a4_4.dat,volunteer_8,4,draw circle (counterclockwise),4,sample_0213_volunteer_8_a4_t4.npy
+sample_0214,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a4_5.dat,volunteer_8,4,draw circle (counterclockwise),5,sample_0214_volunteer_8_a4_t5.npy
+sample_0215,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a4_6.dat,volunteer_8,4,draw circle (counterclockwise),6,sample_0215_volunteer_8_a4_t6.npy
+sample_0216,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a5_1.dat,volunteer_8,5,draw tick,1,sample_0216_volunteer_8_a5_t1.npy
+sample_0217,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a5_2.dat,volunteer_8,5,draw tick,2,sample_0217_volunteer_8_a5_t2.npy
+sample_0218,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a5_3.dat,volunteer_8,5,draw tick,3,sample_0218_volunteer_8_a5_t3.npy
+sample_0219,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a5_4.dat,volunteer_8,5,draw tick,4,sample_0219_volunteer_8_a5_t4.npy
+sample_0220,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a5_5.dat,volunteer_8,5,draw tick,5,sample_0220_volunteer_8_a5_t5.npy
+sample_0221,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a5_6.dat,volunteer_8,5,draw tick,6,sample_0221_volunteer_8_a5_t6.npy
+sample_0222,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a6_1.dat,volunteer_8,6,draw cross,1,sample_0222_volunteer_8_a6_t1.npy
+sample_0223,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a6_2.dat,volunteer_8,6,draw cross,2,sample_0223_volunteer_8_a6_t2.npy
+sample_0224,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a6_3.dat,volunteer_8,6,draw cross,3,sample_0224_volunteer_8_a6_t3.npy
+sample_0225,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a6_4.dat,volunteer_8,6,draw cross,4,sample_0225_volunteer_8_a6_t4.npy
+sample_0226,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a6_5.dat,volunteer_8,6,draw cross,5,sample_0226_volunteer_8_a6_t5.npy
+sample_0227,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a6_6.dat,volunteer_8,6,draw cross,6,sample_0227_volunteer_8_a6_t6.npy
+sample_0228,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a7_1.dat,volunteer_8,7,come here gesture,1,sample_0228_volunteer_8_a7_t1.npy
+sample_0229,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a7_2.dat,volunteer_8,7,come here gesture,2,sample_0229_volunteer_8_a7_t2.npy
+sample_0230,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a7_3.dat,volunteer_8,7,come here gesture,3,sample_0230_volunteer_8_a7_t3.npy
+sample_0231,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a7_4.dat,volunteer_8,7,come here gesture,4,sample_0231_volunteer_8_a7_t4.npy
+sample_0232,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a7_5.dat,volunteer_8,7,come here gesture,5,sample_0232_volunteer_8_a7_t5.npy
+sample_0233,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a7_6.dat,volunteer_8,7,come here gesture,6,sample_0233_volunteer_8_a7_t6.npy
+sample_0234,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a8_1.dat,volunteer_8,8,wave gesture,1,sample_0234_volunteer_8_a8_t1.npy
+sample_0235,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a8_2.dat,volunteer_8,8,wave gesture,2,sample_0235_volunteer_8_a8_t2.npy
+sample_0236,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a8_3.dat,volunteer_8,8,wave gesture,3,sample_0236_volunteer_8_a8_t3.npy
+sample_0237,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a8_4.dat,volunteer_8,8,wave gesture,4,sample_0237_volunteer_8_a8_t4.npy
+sample_0238,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a8_5.dat,volunteer_8,8,wave gesture,5,sample_0238_volunteer_8_a8_t5.npy
+sample_0239,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a8_6.dat,volunteer_8,8,wave gesture,6,sample_0239_volunteer_8_a8_t6.npy
+sample_0240,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a9_1.dat,volunteer_8,9,bend,1,sample_0240_volunteer_8_a9_t1.npy
+sample_0241,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a9_2.dat,volunteer_8,9,bend,2,sample_0241_volunteer_8_a9_t2.npy
+sample_0242,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a9_3.dat,volunteer_8,9,bend,3,sample_0242_volunteer_8_a9_t3.npy
+sample_0243,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a9_4.dat,volunteer_8,9,bend,4,sample_0243_volunteer_8_a9_t4.npy
+sample_0244,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a9_5.dat,volunteer_8,9,bend,5,sample_0244_volunteer_8_a9_t5.npy
+sample_0245,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a9_6.dat,volunteer_8,9,bend,6,sample_0245_volunteer_8_a9_t6.npy
+sample_0246,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a10_1.dat,volunteer_8,10,squat,1,sample_0246_volunteer_8_a10_t1.npy
+sample_0247,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a10_2.dat,volunteer_8,10,squat,2,sample_0247_volunteer_8_a10_t2.npy
+sample_0248,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a10_3.dat,volunteer_8,10,squat,3,sample_0248_volunteer_8_a10_t3.npy
+sample_0249,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a10_4.dat,volunteer_8,10,squat,4,sample_0249_volunteer_8_a10_t4.npy
+sample_0250,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a10_5.dat,volunteer_8,10,squat,5,sample_0250_volunteer_8_a10_t5.npy
+sample_0251,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a10_6.dat,volunteer_8,10,squat,6,sample_0251_volunteer_8_a10_t6.npy
+sample_0252,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a11_1.dat,volunteer_8,11,walk,1,sample_0252_volunteer_8_a11_t1.npy
+sample_0253,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a11_2.dat,volunteer_8,11,walk,2,sample_0253_volunteer_8_a11_t2.npy
+sample_0254,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a11_3.dat,volunteer_8,11,walk,3,sample_0254_volunteer_8_a11_t3.npy
+sample_0255,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a11_4.dat,volunteer_8,11,walk,4,sample_0255_volunteer_8_a11_t4.npy
+sample_0256,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a11_5.dat,volunteer_8,11,walk,5,sample_0256_volunteer_8_a11_t5.npy
+sample_0257,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a11_6.dat,volunteer_8,11,walk,6,sample_0257_volunteer_8_a11_t6.npy
+sample_0258,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a12_1.dat,volunteer_8,12,fall,1,sample_0258_volunteer_8_a12_t1.npy
+sample_0259,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a12_2.dat,volunteer_8,12,fall,2,sample_0259_volunteer_8_a12_t2.npy
+sample_0260,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a12_3.dat,volunteer_8,12,fall,3,sample_0260_volunteer_8_a12_t3.npy
+sample_0261,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a12_4.dat,volunteer_8,12,fall,4,sample_0261_volunteer_8_a12_t4.npy
+sample_0262,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a12_5.dat,volunteer_8,12,fall,5,sample_0262_volunteer_8_a12_t5.npy
+sample_0263,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a12_6.dat,volunteer_8,12,fall,6,sample_0263_volunteer_8_a12_t6.npy
+sample_0264,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a13_1.dat,volunteer_8,13,run,1,sample_0264_volunteer_8_a13_t1.npy
+sample_0265,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a13_2.dat,volunteer_8,13,run,2,sample_0265_volunteer_8_a13_t2.npy
+sample_0266,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a13_3.dat,volunteer_8,13,run,3,sample_0266_volunteer_8_a13_t3.npy
+sample_0267,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a13_4.dat,volunteer_8,13,run,4,sample_0267_volunteer_8_a13_t4.npy
+sample_0268,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a13_5.dat,volunteer_8,13,run,5,sample_0268_volunteer_8_a13_t5.npy
+sample_0269,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a13_6.dat,volunteer_8,13,run,6,sample_0269_volunteer_8_a13_t6.npy
+sample_0270,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a14_1.dat,volunteer_8,14,sit down,1,sample_0270_volunteer_8_a14_t1.npy
+sample_0271,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a14_2.dat,volunteer_8,14,sit down,2,sample_0271_volunteer_8_a14_t2.npy
+sample_0272,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a14_3.dat,volunteer_8,14,sit down,3,sample_0272_volunteer_8_a14_t3.npy
+sample_0273,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a14_4.dat,volunteer_8,14,sit down,4,sample_0273_volunteer_8_a14_t4.npy
+sample_0274,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a14_5.dat,volunteer_8,14,sit down,5,sample_0274_volunteer_8_a14_t5.npy
+sample_0275,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a14_6.dat,volunteer_8,14,sit down,6,sample_0275_volunteer_8_a14_t6.npy
+sample_0276,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a15_1.dat,volunteer_8,15,stand up,1,sample_0276_volunteer_8_a15_t1.npy
+sample_0277,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a15_2.dat,volunteer_8,15,stand up,2,sample_0277_volunteer_8_a15_t2.npy
+sample_0278,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a15_3.dat,volunteer_8,15,stand up,3,sample_0278_volunteer_8_a15_t3.npy
+sample_0279,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a15_4.dat,volunteer_8,15,stand up,4,sample_0279_volunteer_8_a15_t4.npy
+sample_0280,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a15_5.dat,volunteer_8,15,stand up,5,sample_0280_volunteer_8_a15_t5.npy
+sample_0281,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a15_6.dat,volunteer_8,15,stand up,6,sample_0281_volunteer_8_a15_t6.npy
+sample_0282,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a16_1.dat,volunteer_8,16,pick up,1,sample_0282_volunteer_8_a16_t1.npy
+sample_0283,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a16_2.dat,volunteer_8,16,pick up,2,sample_0283_volunteer_8_a16_t2.npy
+sample_0284,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a16_3.dat,volunteer_8,16,pick up,3,sample_0284_volunteer_8_a16_t3.npy
+sample_0285,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a16_4.dat,volunteer_8,16,pick up,4,sample_0285_volunteer_8_a16_t4.npy
+sample_0286,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a16_5.dat,volunteer_8,16,pick up,5,sample_0286_volunteer_8_a16_t5.npy
+sample_0287,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_8\volunteer_8\csi_a16_6.dat,volunteer_8,16,pick up,6,sample_0287_volunteer_8_a16_t6.npy
+sample_0288,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a1_1.dat,volunteer_9,1,horizontal arm wave,1,sample_0288_volunteer_9_a1_t1.npy
+sample_0289,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a1_2.dat,volunteer_9,1,horizontal arm wave,2,sample_0289_volunteer_9_a1_t2.npy
+sample_0290,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a1_3.dat,volunteer_9,1,horizontal arm wave,3,sample_0290_volunteer_9_a1_t3.npy
+sample_0291,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a1_4.dat,volunteer_9,1,horizontal arm wave,4,sample_0291_volunteer_9_a1_t4.npy
+sample_0292,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a1_5.dat,volunteer_9,1,horizontal arm wave,5,sample_0292_volunteer_9_a1_t5.npy
+sample_0293,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a1_6.dat,volunteer_9,1,horizontal arm wave,6,sample_0293_volunteer_9_a1_t6.npy
+sample_0294,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a2_1.dat,volunteer_9,2,vertical arm wave,1,sample_0294_volunteer_9_a2_t1.npy
+sample_0295,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a2_2.dat,volunteer_9,2,vertical arm wave,2,sample_0295_volunteer_9_a2_t2.npy
+sample_0296,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a2_3.dat,volunteer_9,2,vertical arm wave,3,sample_0296_volunteer_9_a2_t3.npy
+sample_0297,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a2_4.dat,volunteer_9,2,vertical arm wave,4,sample_0297_volunteer_9_a2_t4.npy
+sample_0298,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a2_5.dat,volunteer_9,2,vertical arm wave,5,sample_0298_volunteer_9_a2_t5.npy
+sample_0299,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a2_6.dat,volunteer_9,2,vertical arm wave,6,sample_0299_volunteer_9_a2_t6.npy
+sample_0300,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a3_1.dat,volunteer_9,3,draw circle (clockwise),1,sample_0300_volunteer_9_a3_t1.npy
+sample_0301,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a3_2.dat,volunteer_9,3,draw circle (clockwise),2,sample_0301_volunteer_9_a3_t2.npy
+sample_0302,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a3_3.dat,volunteer_9,3,draw circle (clockwise),3,sample_0302_volunteer_9_a3_t3.npy
+sample_0303,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a3_4.dat,volunteer_9,3,draw circle (clockwise),4,sample_0303_volunteer_9_a3_t4.npy
+sample_0304,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a3_5.dat,volunteer_9,3,draw circle (clockwise),5,sample_0304_volunteer_9_a3_t5.npy
+sample_0305,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a3_6.dat,volunteer_9,3,draw circle (clockwise),6,sample_0305_volunteer_9_a3_t6.npy
+sample_0306,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a4_1.dat,volunteer_9,4,draw circle (counterclockwise),1,sample_0306_volunteer_9_a4_t1.npy
+sample_0307,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a4_2.dat,volunteer_9,4,draw circle (counterclockwise),2,sample_0307_volunteer_9_a4_t2.npy
+sample_0308,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a4_3.dat,volunteer_9,4,draw circle (counterclockwise),3,sample_0308_volunteer_9_a4_t3.npy
+sample_0309,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a4_4.dat,volunteer_9,4,draw circle (counterclockwise),4,sample_0309_volunteer_9_a4_t4.npy
+sample_0310,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a4_5.dat,volunteer_9,4,draw circle (counterclockwise),5,sample_0310_volunteer_9_a4_t5.npy
+sample_0311,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a4_6.dat,volunteer_9,4,draw circle (counterclockwise),6,sample_0311_volunteer_9_a4_t6.npy
+sample_0312,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a5_1.dat,volunteer_9,5,draw tick,1,sample_0312_volunteer_9_a5_t1.npy
+sample_0313,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a5_2.dat,volunteer_9,5,draw tick,2,sample_0313_volunteer_9_a5_t2.npy
+sample_0314,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a5_3.dat,volunteer_9,5,draw tick,3,sample_0314_volunteer_9_a5_t3.npy
+sample_0315,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a5_4.dat,volunteer_9,5,draw tick,4,sample_0315_volunteer_9_a5_t4.npy
+sample_0316,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a5_5.dat,volunteer_9,5,draw tick,5,sample_0316_volunteer_9_a5_t5.npy
+sample_0317,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a5_6.dat,volunteer_9,5,draw tick,6,sample_0317_volunteer_9_a5_t6.npy
+sample_0318,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a6_1.dat,volunteer_9,6,draw cross,1,sample_0318_volunteer_9_a6_t1.npy
+sample_0319,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a6_2.dat,volunteer_9,6,draw cross,2,sample_0319_volunteer_9_a6_t2.npy
+sample_0320,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a6_3.dat,volunteer_9,6,draw cross,3,sample_0320_volunteer_9_a6_t3.npy
+sample_0321,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a6_4.dat,volunteer_9,6,draw cross,4,sample_0321_volunteer_9_a6_t4.npy
+sample_0322,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a6_5.dat,volunteer_9,6,draw cross,5,sample_0322_volunteer_9_a6_t5.npy
+sample_0323,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a6_6.dat,volunteer_9,6,draw cross,6,sample_0323_volunteer_9_a6_t6.npy
+sample_0324,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a7_1.dat,volunteer_9,7,come here gesture,1,sample_0324_volunteer_9_a7_t1.npy
+sample_0325,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a7_2.dat,volunteer_9,7,come here gesture,2,sample_0325_volunteer_9_a7_t2.npy
+sample_0326,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a7_3.dat,volunteer_9,7,come here gesture,3,sample_0326_volunteer_9_a7_t3.npy
+sample_0327,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a7_4.dat,volunteer_9,7,come here gesture,4,sample_0327_volunteer_9_a7_t4.npy
+sample_0328,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a7_5.dat,volunteer_9,7,come here gesture,5,sample_0328_volunteer_9_a7_t5.npy
+sample_0329,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a7_6.dat,volunteer_9,7,come here gesture,6,sample_0329_volunteer_9_a7_t6.npy
+sample_0330,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a8_1.dat,volunteer_9,8,wave gesture,1,sample_0330_volunteer_9_a8_t1.npy
+sample_0331,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a8_2.dat,volunteer_9,8,wave gesture,2,sample_0331_volunteer_9_a8_t2.npy
+sample_0332,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a8_3.dat,volunteer_9,8,wave gesture,3,sample_0332_volunteer_9_a8_t3.npy
+sample_0333,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a8_4.dat,volunteer_9,8,wave gesture,4,sample_0333_volunteer_9_a8_t4.npy
+sample_0334,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a8_5.dat,volunteer_9,8,wave gesture,5,sample_0334_volunteer_9_a8_t5.npy
+sample_0335,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a8_6.dat,volunteer_9,8,wave gesture,6,sample_0335_volunteer_9_a8_t6.npy
+sample_0336,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a9_1.dat,volunteer_9,9,bend,1,sample_0336_volunteer_9_a9_t1.npy
+sample_0337,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a9_2.dat,volunteer_9,9,bend,2,sample_0337_volunteer_9_a9_t2.npy
+sample_0338,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a9_3.dat,volunteer_9,9,bend,3,sample_0338_volunteer_9_a9_t3.npy
+sample_0339,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a9_4.dat,volunteer_9,9,bend,4,sample_0339_volunteer_9_a9_t4.npy
+sample_0340,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a9_5.dat,volunteer_9,9,bend,5,sample_0340_volunteer_9_a9_t5.npy
+sample_0341,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a9_6.dat,volunteer_9,9,bend,6,sample_0341_volunteer_9_a9_t6.npy
+sample_0342,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a10_1.dat,volunteer_9,10,squat,1,sample_0342_volunteer_9_a10_t1.npy
+sample_0343,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a10_2.dat,volunteer_9,10,squat,2,sample_0343_volunteer_9_a10_t2.npy
+sample_0344,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a10_3.dat,volunteer_9,10,squat,3,sample_0344_volunteer_9_a10_t3.npy
+sample_0345,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a10_4.dat,volunteer_9,10,squat,4,sample_0345_volunteer_9_a10_t4.npy
+sample_0346,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a10_5.dat,volunteer_9,10,squat,5,sample_0346_volunteer_9_a10_t5.npy
+sample_0347,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a10_6.dat,volunteer_9,10,squat,6,sample_0347_volunteer_9_a10_t6.npy
+sample_0348,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a11_1.dat,volunteer_9,11,walk,1,sample_0348_volunteer_9_a11_t1.npy
+sample_0349,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a11_2.dat,volunteer_9,11,walk,2,sample_0349_volunteer_9_a11_t2.npy
+sample_0350,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a11_3.dat,volunteer_9,11,walk,3,sample_0350_volunteer_9_a11_t3.npy
+sample_0351,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a11_4.dat,volunteer_9,11,walk,4,sample_0351_volunteer_9_a11_t4.npy
+sample_0352,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a11_5.dat,volunteer_9,11,walk,5,sample_0352_volunteer_9_a11_t5.npy
+sample_0353,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a11_6.dat,volunteer_9,11,walk,6,sample_0353_volunteer_9_a11_t6.npy
+sample_0354,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a12_1.dat,volunteer_9,12,fall,1,sample_0354_volunteer_9_a12_t1.npy
+sample_0355,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a12_2.dat,volunteer_9,12,fall,2,sample_0355_volunteer_9_a12_t2.npy
+sample_0356,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a12_3.dat,volunteer_9,12,fall,3,sample_0356_volunteer_9_a12_t3.npy
+sample_0357,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a12_4.dat,volunteer_9,12,fall,4,sample_0357_volunteer_9_a12_t4.npy
+sample_0358,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a12_5.dat,volunteer_9,12,fall,5,sample_0358_volunteer_9_a12_t5.npy
+sample_0359,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a12_6.dat,volunteer_9,12,fall,6,sample_0359_volunteer_9_a12_t6.npy
+sample_0360,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a13_1.dat,volunteer_9,13,run,1,sample_0360_volunteer_9_a13_t1.npy
+sample_0361,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a13_2.dat,volunteer_9,13,run,2,sample_0361_volunteer_9_a13_t2.npy
+sample_0362,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a13_3.dat,volunteer_9,13,run,3,sample_0362_volunteer_9_a13_t3.npy
+sample_0363,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a13_4.dat,volunteer_9,13,run,4,sample_0363_volunteer_9_a13_t4.npy
+sample_0364,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a13_5.dat,volunteer_9,13,run,5,sample_0364_volunteer_9_a13_t5.npy
+sample_0365,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a13_6.dat,volunteer_9,13,run,6,sample_0365_volunteer_9_a13_t6.npy
+sample_0366,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a14_1.dat,volunteer_9,14,sit down,1,sample_0366_volunteer_9_a14_t1.npy
+sample_0367,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a14_2.dat,volunteer_9,14,sit down,2,sample_0367_volunteer_9_a14_t2.npy
+sample_0368,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a14_3.dat,volunteer_9,14,sit down,3,sample_0368_volunteer_9_a14_t3.npy
+sample_0369,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a14_4.dat,volunteer_9,14,sit down,4,sample_0369_volunteer_9_a14_t4.npy
+sample_0370,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a14_5.dat,volunteer_9,14,sit down,5,sample_0370_volunteer_9_a14_t5.npy
+sample_0371,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a14_6.dat,volunteer_9,14,sit down,6,sample_0371_volunteer_9_a14_t6.npy
+sample_0372,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a15_1.dat,volunteer_9,15,stand up,1,sample_0372_volunteer_9_a15_t1.npy
+sample_0373,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a15_2.dat,volunteer_9,15,stand up,2,sample_0373_volunteer_9_a15_t2.npy
+sample_0374,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a15_3.dat,volunteer_9,15,stand up,3,sample_0374_volunteer_9_a15_t3.npy
+sample_0375,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a15_4.dat,volunteer_9,15,stand up,4,sample_0375_volunteer_9_a15_t4.npy
+sample_0376,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a15_5.dat,volunteer_9,15,stand up,5,sample_0376_volunteer_9_a15_t5.npy
+sample_0377,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a15_6.dat,volunteer_9,15,stand up,6,sample_0377_volunteer_9_a15_t6.npy
+sample_0378,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a16_1.dat,volunteer_9,16,pick up,1,sample_0378_volunteer_9_a16_t1.npy
+sample_0379,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a16_2.dat,volunteer_9,16,pick up,2,sample_0379_volunteer_9_a16_t2.npy
+sample_0380,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a16_3.dat,volunteer_9,16,pick up,3,sample_0380_volunteer_9_a16_t3.npy
+sample_0381,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a16_4.dat,volunteer_9,16,pick up,4,sample_0381_volunteer_9_a16_t4.npy
+sample_0382,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a16_5.dat,volunteer_9,16,pick up,5,sample_0382_volunteer_9_a16_t5.npy
+sample_0383,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_9\volunteer_9\csi_a16_6.dat,volunteer_9,16,pick up,6,sample_0383_volunteer_9_a16_t6.npy
+sample_0384,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a1_1.dat,volunteer_a,1,horizontal arm wave,1,sample_0384_volunteer_a_a1_t1.npy
+sample_0385,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a1_2.dat,volunteer_a,1,horizontal arm wave,2,sample_0385_volunteer_a_a1_t2.npy
+sample_0386,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a1_3.dat,volunteer_a,1,horizontal arm wave,3,sample_0386_volunteer_a_a1_t3.npy
+sample_0387,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a1_4.dat,volunteer_a,1,horizontal arm wave,4,sample_0387_volunteer_a_a1_t4.npy
+sample_0388,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a1_5.dat,volunteer_a,1,horizontal arm wave,5,sample_0388_volunteer_a_a1_t5.npy
+sample_0389,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a1_6.dat,volunteer_a,1,horizontal arm wave,6,sample_0389_volunteer_a_a1_t6.npy
+sample_0390,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a2_1.dat,volunteer_a,2,vertical arm wave,1,sample_0390_volunteer_a_a2_t1.npy
+sample_0391,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a2_2.dat,volunteer_a,2,vertical arm wave,2,sample_0391_volunteer_a_a2_t2.npy
+sample_0392,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a2_3.dat,volunteer_a,2,vertical arm wave,3,sample_0392_volunteer_a_a2_t3.npy
+sample_0393,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a2_4.dat,volunteer_a,2,vertical arm wave,4,sample_0393_volunteer_a_a2_t4.npy
+sample_0394,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a2_5.dat,volunteer_a,2,vertical arm wave,5,sample_0394_volunteer_a_a2_t5.npy
+sample_0395,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a2_6.dat,volunteer_a,2,vertical arm wave,6,sample_0395_volunteer_a_a2_t6.npy
+sample_0396,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a3_1.dat,volunteer_a,3,draw circle (clockwise),1,sample_0396_volunteer_a_a3_t1.npy
+sample_0397,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a3_2.dat,volunteer_a,3,draw circle (clockwise),2,sample_0397_volunteer_a_a3_t2.npy
+sample_0398,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a3_3.dat,volunteer_a,3,draw circle (clockwise),3,sample_0398_volunteer_a_a3_t3.npy
+sample_0399,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a3_4.dat,volunteer_a,3,draw circle (clockwise),4,sample_0399_volunteer_a_a3_t4.npy
+sample_0400,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a3_5.dat,volunteer_a,3,draw circle (clockwise),5,sample_0400_volunteer_a_a3_t5.npy
+sample_0401,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a3_6.dat,volunteer_a,3,draw circle (clockwise),6,sample_0401_volunteer_a_a3_t6.npy
+sample_0402,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a4_1.dat,volunteer_a,4,draw circle (counterclockwise),1,sample_0402_volunteer_a_a4_t1.npy
+sample_0403,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a4_2.dat,volunteer_a,4,draw circle (counterclockwise),2,sample_0403_volunteer_a_a4_t2.npy
+sample_0404,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a4_3.dat,volunteer_a,4,draw circle (counterclockwise),3,sample_0404_volunteer_a_a4_t3.npy
+sample_0405,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a4_4.dat,volunteer_a,4,draw circle (counterclockwise),4,sample_0405_volunteer_a_a4_t4.npy
+sample_0406,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a4_5.dat,volunteer_a,4,draw circle (counterclockwise),5,sample_0406_volunteer_a_a4_t5.npy
+sample_0407,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a4_6.dat,volunteer_a,4,draw circle (counterclockwise),6,sample_0407_volunteer_a_a4_t6.npy
+sample_0408,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a5_1.dat,volunteer_a,5,draw tick,1,sample_0408_volunteer_a_a5_t1.npy
+sample_0409,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a5_2.dat,volunteer_a,5,draw tick,2,sample_0409_volunteer_a_a5_t2.npy
+sample_0410,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a5_3.dat,volunteer_a,5,draw tick,3,sample_0410_volunteer_a_a5_t3.npy
+sample_0411,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a5_4.dat,volunteer_a,5,draw tick,4,sample_0411_volunteer_a_a5_t4.npy
+sample_0412,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a5_5.dat,volunteer_a,5,draw tick,5,sample_0412_volunteer_a_a5_t5.npy
+sample_0413,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a5_6.dat,volunteer_a,5,draw tick,6,sample_0413_volunteer_a_a5_t6.npy
+sample_0414,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a6_1.dat,volunteer_a,6,draw cross,1,sample_0414_volunteer_a_a6_t1.npy
+sample_0415,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a6_2.dat,volunteer_a,6,draw cross,2,sample_0415_volunteer_a_a6_t2.npy
+sample_0416,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a6_3.dat,volunteer_a,6,draw cross,3,sample_0416_volunteer_a_a6_t3.npy
+sample_0417,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a6_4.dat,volunteer_a,6,draw cross,4,sample_0417_volunteer_a_a6_t4.npy
+sample_0418,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a6_5.dat,volunteer_a,6,draw cross,5,sample_0418_volunteer_a_a6_t5.npy
+sample_0419,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a6_6.dat,volunteer_a,6,draw cross,6,sample_0419_volunteer_a_a6_t6.npy
+sample_0420,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a7_1.dat,volunteer_a,7,come here gesture,1,sample_0420_volunteer_a_a7_t1.npy
+sample_0421,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a7_2.dat,volunteer_a,7,come here gesture,2,sample_0421_volunteer_a_a7_t2.npy
+sample_0422,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a7_3.dat,volunteer_a,7,come here gesture,3,sample_0422_volunteer_a_a7_t3.npy
+sample_0423,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a7_4.dat,volunteer_a,7,come here gesture,4,sample_0423_volunteer_a_a7_t4.npy
+sample_0424,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a7_5.dat,volunteer_a,7,come here gesture,5,sample_0424_volunteer_a_a7_t5.npy
+sample_0425,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a7_6.dat,volunteer_a,7,come here gesture,6,sample_0425_volunteer_a_a7_t6.npy
+sample_0426,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a8_1.dat,volunteer_a,8,wave gesture,1,sample_0426_volunteer_a_a8_t1.npy
+sample_0427,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a8_2.dat,volunteer_a,8,wave gesture,2,sample_0427_volunteer_a_a8_t2.npy
+sample_0428,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a8_3.dat,volunteer_a,8,wave gesture,3,sample_0428_volunteer_a_a8_t3.npy
+sample_0429,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a8_4.dat,volunteer_a,8,wave gesture,4,sample_0429_volunteer_a_a8_t4.npy
+sample_0430,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a8_5.dat,volunteer_a,8,wave gesture,5,sample_0430_volunteer_a_a8_t5.npy
+sample_0431,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a8_6.dat,volunteer_a,8,wave gesture,6,sample_0431_volunteer_a_a8_t6.npy
+sample_0432,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a9_1.dat,volunteer_a,9,bend,1,sample_0432_volunteer_a_a9_t1.npy
+sample_0433,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a9_2.dat,volunteer_a,9,bend,2,sample_0433_volunteer_a_a9_t2.npy
+sample_0434,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a9_3.dat,volunteer_a,9,bend,3,sample_0434_volunteer_a_a9_t3.npy
+sample_0435,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a9_4.dat,volunteer_a,9,bend,4,sample_0435_volunteer_a_a9_t4.npy
+sample_0436,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a9_5.dat,volunteer_a,9,bend,5,sample_0436_volunteer_a_a9_t5.npy
+sample_0437,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a9_6.dat,volunteer_a,9,bend,6,sample_0437_volunteer_a_a9_t6.npy
+sample_0438,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a10_1.dat,volunteer_a,10,squat,1,sample_0438_volunteer_a_a10_t1.npy
+sample_0439,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a10_2.dat,volunteer_a,10,squat,2,sample_0439_volunteer_a_a10_t2.npy
+sample_0440,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a10_3.dat,volunteer_a,10,squat,3,sample_0440_volunteer_a_a10_t3.npy
+sample_0441,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a10_4.dat,volunteer_a,10,squat,4,sample_0441_volunteer_a_a10_t4.npy
+sample_0442,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a10_5.dat,volunteer_a,10,squat,5,sample_0442_volunteer_a_a10_t5.npy
+sample_0443,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a10_6.dat,volunteer_a,10,squat,6,sample_0443_volunteer_a_a10_t6.npy
+sample_0444,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a11_1.dat,volunteer_a,11,walk,1,sample_0444_volunteer_a_a11_t1.npy
+sample_0445,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a11_2.dat,volunteer_a,11,walk,2,sample_0445_volunteer_a_a11_t2.npy
+sample_0446,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a11_3.dat,volunteer_a,11,walk,3,sample_0446_volunteer_a_a11_t3.npy
+sample_0447,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a11_4.dat,volunteer_a,11,walk,4,sample_0447_volunteer_a_a11_t4.npy
+sample_0448,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a11_5.dat,volunteer_a,11,walk,5,sample_0448_volunteer_a_a11_t5.npy
+sample_0449,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a11_6.dat,volunteer_a,11,walk,6,sample_0449_volunteer_a_a11_t6.npy
+sample_0450,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a12_1.dat,volunteer_a,12,fall,1,sample_0450_volunteer_a_a12_t1.npy
+sample_0451,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a12_2.dat,volunteer_a,12,fall,2,sample_0451_volunteer_a_a12_t2.npy
+sample_0452,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a12_3.dat,volunteer_a,12,fall,3,sample_0452_volunteer_a_a12_t3.npy
+sample_0453,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a12_4.dat,volunteer_a,12,fall,4,sample_0453_volunteer_a_a12_t4.npy
+sample_0454,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a12_5.dat,volunteer_a,12,fall,5,sample_0454_volunteer_a_a12_t5.npy
+sample_0455,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a12_6.dat,volunteer_a,12,fall,6,sample_0455_volunteer_a_a12_t6.npy
+sample_0456,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a13_1.dat,volunteer_a,13,run,1,sample_0456_volunteer_a_a13_t1.npy
+sample_0457,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a13_2.dat,volunteer_a,13,run,2,sample_0457_volunteer_a_a13_t2.npy
+sample_0458,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a13_3.dat,volunteer_a,13,run,3,sample_0458_volunteer_a_a13_t3.npy
+sample_0459,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a13_4.dat,volunteer_a,13,run,4,sample_0459_volunteer_a_a13_t4.npy
+sample_0460,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a13_5.dat,volunteer_a,13,run,5,sample_0460_volunteer_a_a13_t5.npy
+sample_0461,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a13_6.dat,volunteer_a,13,run,6,sample_0461_volunteer_a_a13_t6.npy
+sample_0462,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a14_1.dat,volunteer_a,14,sit down,1,sample_0462_volunteer_a_a14_t1.npy
+sample_0463,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a14_2.dat,volunteer_a,14,sit down,2,sample_0463_volunteer_a_a14_t2.npy
+sample_0464,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a14_3.dat,volunteer_a,14,sit down,3,sample_0464_volunteer_a_a14_t3.npy
+sample_0465,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a14_4.dat,volunteer_a,14,sit down,4,sample_0465_volunteer_a_a14_t4.npy
+sample_0466,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a14_5.dat,volunteer_a,14,sit down,5,sample_0466_volunteer_a_a14_t5.npy
+sample_0467,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a14_6.dat,volunteer_a,14,sit down,6,sample_0467_volunteer_a_a14_t6.npy
+sample_0468,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a15_1.dat,volunteer_a,15,stand up,1,sample_0468_volunteer_a_a15_t1.npy
+sample_0469,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a15_2.dat,volunteer_a,15,stand up,2,sample_0469_volunteer_a_a15_t2.npy
+sample_0470,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a15_3.dat,volunteer_a,15,stand up,3,sample_0470_volunteer_a_a15_t3.npy
+sample_0471,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a15_4.dat,volunteer_a,15,stand up,4,sample_0471_volunteer_a_a15_t4.npy
+sample_0472,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a15_5.dat,volunteer_a,15,stand up,5,sample_0472_volunteer_a_a15_t5.npy
+sample_0473,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a15_6.dat,volunteer_a,15,stand up,6,sample_0473_volunteer_a_a15_t6.npy
+sample_0474,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a16_1.dat,volunteer_a,16,pick up,1,sample_0474_volunteer_a_a16_t1.npy
+sample_0475,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a16_2.dat,volunteer_a,16,pick up,2,sample_0475_volunteer_a_a16_t2.npy
+sample_0476,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a16_3.dat,volunteer_a,16,pick up,3,sample_0476_volunteer_a_a16_t3.npy
+sample_0477,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a16_4.dat,volunteer_a,16,pick up,4,sample_0477_volunteer_a_a16_t4.npy
+sample_0478,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a16_5.dat,volunteer_a,16,pick up,5,sample_0478_volunteer_a_a16_t5.npy
+sample_0479,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_a_all_data\volunteer_a_all_data\csi_a16_6.dat,volunteer_a,16,pick up,6,sample_0479_volunteer_a_a16_t6.npy
+sample_0480,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a1_1.dat,volunteer_b,1,horizontal arm wave,1,sample_0480_volunteer_b_a1_t1.npy
+sample_0481,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a1_2.dat,volunteer_b,1,horizontal arm wave,2,sample_0481_volunteer_b_a1_t2.npy
+sample_0482,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a1_3.dat,volunteer_b,1,horizontal arm wave,3,sample_0482_volunteer_b_a1_t3.npy
+sample_0483,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a1_4.dat,volunteer_b,1,horizontal arm wave,4,sample_0483_volunteer_b_a1_t4.npy
+sample_0484,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a1_5.dat,volunteer_b,1,horizontal arm wave,5,sample_0484_volunteer_b_a1_t5.npy
+sample_0485,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a1_6.dat,volunteer_b,1,horizontal arm wave,6,sample_0485_volunteer_b_a1_t6.npy
+sample_0486,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a2_1.dat,volunteer_b,2,vertical arm wave,1,sample_0486_volunteer_b_a2_t1.npy
+sample_0487,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a2_2.dat,volunteer_b,2,vertical arm wave,2,sample_0487_volunteer_b_a2_t2.npy
+sample_0488,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a2_3.dat,volunteer_b,2,vertical arm wave,3,sample_0488_volunteer_b_a2_t3.npy
+sample_0489,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a2_4.dat,volunteer_b,2,vertical arm wave,4,sample_0489_volunteer_b_a2_t4.npy
+sample_0490,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a2_5.dat,volunteer_b,2,vertical arm wave,5,sample_0490_volunteer_b_a2_t5.npy
+sample_0491,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a2_6.dat,volunteer_b,2,vertical arm wave,6,sample_0491_volunteer_b_a2_t6.npy
+sample_0492,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a3_1.dat,volunteer_b,3,draw circle (clockwise),1,sample_0492_volunteer_b_a3_t1.npy
+sample_0493,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a3_2.dat,volunteer_b,3,draw circle (clockwise),2,sample_0493_volunteer_b_a3_t2.npy
+sample_0494,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a3_3.dat,volunteer_b,3,draw circle (clockwise),3,sample_0494_volunteer_b_a3_t3.npy
+sample_0495,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a3_4.dat,volunteer_b,3,draw circle (clockwise),4,sample_0495_volunteer_b_a3_t4.npy
+sample_0496,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a3_5.dat,volunteer_b,3,draw circle (clockwise),5,sample_0496_volunteer_b_a3_t5.npy
+sample_0497,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a3_6.dat,volunteer_b,3,draw circle (clockwise),6,sample_0497_volunteer_b_a3_t6.npy
+sample_0498,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a4_1.dat,volunteer_b,4,draw circle (counterclockwise),1,sample_0498_volunteer_b_a4_t1.npy
+sample_0499,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a4_2.dat,volunteer_b,4,draw circle (counterclockwise),2,sample_0499_volunteer_b_a4_t2.npy
+sample_0500,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a4_3.dat,volunteer_b,4,draw circle (counterclockwise),3,sample_0500_volunteer_b_a4_t3.npy
+sample_0501,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a4_4.dat,volunteer_b,4,draw circle (counterclockwise),4,sample_0501_volunteer_b_a4_t4.npy
+sample_0502,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a4_5.dat,volunteer_b,4,draw circle (counterclockwise),5,sample_0502_volunteer_b_a4_t5.npy
+sample_0503,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a4_6.dat,volunteer_b,4,draw circle (counterclockwise),6,sample_0503_volunteer_b_a4_t6.npy
+sample_0504,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a5_1.dat,volunteer_b,5,draw tick,1,sample_0504_volunteer_b_a5_t1.npy
+sample_0505,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a5_2.dat,volunteer_b,5,draw tick,2,sample_0505_volunteer_b_a5_t2.npy
+sample_0506,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a5_3.dat,volunteer_b,5,draw tick,3,sample_0506_volunteer_b_a5_t3.npy
+sample_0507,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a5_4.dat,volunteer_b,5,draw tick,4,sample_0507_volunteer_b_a5_t4.npy
+sample_0508,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a5_5.dat,volunteer_b,5,draw tick,5,sample_0508_volunteer_b_a5_t5.npy
+sample_0509,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a5_6.dat,volunteer_b,5,draw tick,6,sample_0509_volunteer_b_a5_t6.npy
+sample_0510,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a6_1.dat,volunteer_b,6,draw cross,1,sample_0510_volunteer_b_a6_t1.npy
+sample_0511,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a6_2.dat,volunteer_b,6,draw cross,2,sample_0511_volunteer_b_a6_t2.npy
+sample_0512,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a6_3.dat,volunteer_b,6,draw cross,3,sample_0512_volunteer_b_a6_t3.npy
+sample_0513,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a6_4.dat,volunteer_b,6,draw cross,4,sample_0513_volunteer_b_a6_t4.npy
+sample_0514,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a6_5.dat,volunteer_b,6,draw cross,5,sample_0514_volunteer_b_a6_t5.npy
+sample_0515,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a6_6.dat,volunteer_b,6,draw cross,6,sample_0515_volunteer_b_a6_t6.npy
+sample_0516,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a7_1.dat,volunteer_b,7,come here gesture,1,sample_0516_volunteer_b_a7_t1.npy
+sample_0517,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a7_2.dat,volunteer_b,7,come here gesture,2,sample_0517_volunteer_b_a7_t2.npy
+sample_0518,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a7_3.dat,volunteer_b,7,come here gesture,3,sample_0518_volunteer_b_a7_t3.npy
+sample_0519,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a7_4.dat,volunteer_b,7,come here gesture,4,sample_0519_volunteer_b_a7_t4.npy
+sample_0520,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a7_5.dat,volunteer_b,7,come here gesture,5,sample_0520_volunteer_b_a7_t5.npy
+sample_0521,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a7_6.dat,volunteer_b,7,come here gesture,6,sample_0521_volunteer_b_a7_t6.npy
+sample_0522,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a8_1.dat,volunteer_b,8,wave gesture,1,sample_0522_volunteer_b_a8_t1.npy
+sample_0523,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a8_2.dat,volunteer_b,8,wave gesture,2,sample_0523_volunteer_b_a8_t2.npy
+sample_0524,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a8_3.dat,volunteer_b,8,wave gesture,3,sample_0524_volunteer_b_a8_t3.npy
+sample_0525,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a8_4.dat,volunteer_b,8,wave gesture,4,sample_0525_volunteer_b_a8_t4.npy
+sample_0526,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a8_5.dat,volunteer_b,8,wave gesture,5,sample_0526_volunteer_b_a8_t5.npy
+sample_0527,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a8_6.dat,volunteer_b,8,wave gesture,6,sample_0527_volunteer_b_a8_t6.npy
+sample_0528,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a9_1.dat,volunteer_b,9,bend,1,sample_0528_volunteer_b_a9_t1.npy
+sample_0529,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a9_2.dat,volunteer_b,9,bend,2,sample_0529_volunteer_b_a9_t2.npy
+sample_0530,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a9_3.dat,volunteer_b,9,bend,3,sample_0530_volunteer_b_a9_t3.npy
+sample_0531,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a9_4.dat,volunteer_b,9,bend,4,sample_0531_volunteer_b_a9_t4.npy
+sample_0532,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a9_5.dat,volunteer_b,9,bend,5,sample_0532_volunteer_b_a9_t5.npy
+sample_0533,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a9_6.dat,volunteer_b,9,bend,6,sample_0533_volunteer_b_a9_t6.npy
+sample_0534,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a10_1.dat,volunteer_b,10,squat,1,sample_0534_volunteer_b_a10_t1.npy
+sample_0535,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a10_2.dat,volunteer_b,10,squat,2,sample_0535_volunteer_b_a10_t2.npy
+sample_0536,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a10_3.dat,volunteer_b,10,squat,3,sample_0536_volunteer_b_a10_t3.npy
+sample_0537,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a10_4.dat,volunteer_b,10,squat,4,sample_0537_volunteer_b_a10_t4.npy
+sample_0538,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a10_5.dat,volunteer_b,10,squat,5,sample_0538_volunteer_b_a10_t5.npy
+sample_0539,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a10_6.dat,volunteer_b,10,squat,6,sample_0539_volunteer_b_a10_t6.npy
+sample_0540,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a11_1.dat,volunteer_b,11,walk,1,sample_0540_volunteer_b_a11_t1.npy
+sample_0541,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a11_2.dat,volunteer_b,11,walk,2,sample_0541_volunteer_b_a11_t2.npy
+sample_0542,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a11_3.dat,volunteer_b,11,walk,3,sample_0542_volunteer_b_a11_t3.npy
+sample_0543,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a11_4.dat,volunteer_b,11,walk,4,sample_0543_volunteer_b_a11_t4.npy
+sample_0544,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a11_5.dat,volunteer_b,11,walk,5,sample_0544_volunteer_b_a11_t5.npy
+sample_0545,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a11_6.dat,volunteer_b,11,walk,6,sample_0545_volunteer_b_a11_t6.npy
+sample_0546,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a12_1.dat,volunteer_b,12,fall,1,sample_0546_volunteer_b_a12_t1.npy
+sample_0547,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a12_2.dat,volunteer_b,12,fall,2,sample_0547_volunteer_b_a12_t2.npy
+sample_0548,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a12_3.dat,volunteer_b,12,fall,3,sample_0548_volunteer_b_a12_t3.npy
+sample_0549,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a12_4.dat,volunteer_b,12,fall,4,sample_0549_volunteer_b_a12_t4.npy
+sample_0550,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a12_5.dat,volunteer_b,12,fall,5,sample_0550_volunteer_b_a12_t5.npy
+sample_0551,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a12_6.dat,volunteer_b,12,fall,6,sample_0551_volunteer_b_a12_t6.npy
+sample_0552,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a13_1.dat,volunteer_b,13,run,1,sample_0552_volunteer_b_a13_t1.npy
+sample_0553,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a13_2.dat,volunteer_b,13,run,2,sample_0553_volunteer_b_a13_t2.npy
+sample_0554,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a13_3.dat,volunteer_b,13,run,3,sample_0554_volunteer_b_a13_t3.npy
+sample_0555,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a13_4.dat,volunteer_b,13,run,4,sample_0555_volunteer_b_a13_t4.npy
+sample_0556,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a13_5.dat,volunteer_b,13,run,5,sample_0556_volunteer_b_a13_t5.npy
+sample_0557,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a13_6.dat,volunteer_b,13,run,6,sample_0557_volunteer_b_a13_t6.npy
+sample_0558,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a14_1.dat,volunteer_b,14,sit down,1,sample_0558_volunteer_b_a14_t1.npy
+sample_0559,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a14_2.dat,volunteer_b,14,sit down,2,sample_0559_volunteer_b_a14_t2.npy
+sample_0560,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a14_3.dat,volunteer_b,14,sit down,3,sample_0560_volunteer_b_a14_t3.npy
+sample_0561,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a14_4.dat,volunteer_b,14,sit down,4,sample_0561_volunteer_b_a14_t4.npy
+sample_0562,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a14_5.dat,volunteer_b,14,sit down,5,sample_0562_volunteer_b_a14_t5.npy
+sample_0563,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a14_6.dat,volunteer_b,14,sit down,6,sample_0563_volunteer_b_a14_t6.npy
+sample_0564,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a15_1.dat,volunteer_b,15,stand up,1,sample_0564_volunteer_b_a15_t1.npy
+sample_0565,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a15_2.dat,volunteer_b,15,stand up,2,sample_0565_volunteer_b_a15_t2.npy
+sample_0566,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a15_3.dat,volunteer_b,15,stand up,3,sample_0566_volunteer_b_a15_t3.npy
+sample_0567,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a15_4.dat,volunteer_b,15,stand up,4,sample_0567_volunteer_b_a15_t4.npy
+sample_0568,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a15_5.dat,volunteer_b,15,stand up,5,sample_0568_volunteer_b_a15_t5.npy
+sample_0569,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a15_6.dat,volunteer_b,15,stand up,6,sample_0569_volunteer_b_a15_t6.npy
+sample_0570,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a16_1.dat,volunteer_b,16,pick up,1,sample_0570_volunteer_b_a16_t1.npy
+sample_0571,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a16_2.dat,volunteer_b,16,pick up,2,sample_0571_volunteer_b_a16_t2.npy
+sample_0572,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a16_3.dat,volunteer_b,16,pick up,3,sample_0572_volunteer_b_a16_t3.npy
+sample_0573,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a16_4.dat,volunteer_b,16,pick up,4,sample_0573_volunteer_b_a16_t4.npy
+sample_0574,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a16_5.dat,volunteer_b,16,pick up,5,sample_0574_volunteer_b_a16_t5.npy
+sample_0575,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_b_all_data\volunteer_b_all_data\csi_a16_6.dat,volunteer_b,16,pick up,6,sample_0575_volunteer_b_a16_t6.npy
+sample_0576,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a1_1.dat,volunteer_c,1,horizontal arm wave,1,sample_0576_volunteer_c_a1_t1.npy
+sample_0577,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a1_2.dat,volunteer_c,1,horizontal arm wave,2,sample_0577_volunteer_c_a1_t2.npy
+sample_0578,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a1_3.dat,volunteer_c,1,horizontal arm wave,3,sample_0578_volunteer_c_a1_t3.npy
+sample_0579,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a1_4.dat,volunteer_c,1,horizontal arm wave,4,sample_0579_volunteer_c_a1_t4.npy
+sample_0580,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a1_5.dat,volunteer_c,1,horizontal arm wave,5,sample_0580_volunteer_c_a1_t5.npy
+sample_0581,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a1_6.dat,volunteer_c,1,horizontal arm wave,6,sample_0581_volunteer_c_a1_t6.npy
+sample_0582,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a2_1.dat,volunteer_c,2,vertical arm wave,1,sample_0582_volunteer_c_a2_t1.npy
+sample_0583,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a2_2.dat,volunteer_c,2,vertical arm wave,2,sample_0583_volunteer_c_a2_t2.npy
+sample_0584,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a2_3.dat,volunteer_c,2,vertical arm wave,3,sample_0584_volunteer_c_a2_t3.npy
+sample_0585,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a2_4.dat,volunteer_c,2,vertical arm wave,4,sample_0585_volunteer_c_a2_t4.npy
+sample_0586,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a2_5.dat,volunteer_c,2,vertical arm wave,5,sample_0586_volunteer_c_a2_t5.npy
+sample_0587,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a2_6.dat,volunteer_c,2,vertical arm wave,6,sample_0587_volunteer_c_a2_t6.npy
+sample_0588,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a3_1.dat,volunteer_c,3,draw circle (clockwise),1,sample_0588_volunteer_c_a3_t1.npy
+sample_0589,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a3_2.dat,volunteer_c,3,draw circle (clockwise),2,sample_0589_volunteer_c_a3_t2.npy
+sample_0590,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a3_3.dat,volunteer_c,3,draw circle (clockwise),3,sample_0590_volunteer_c_a3_t3.npy
+sample_0591,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a3_4.dat,volunteer_c,3,draw circle (clockwise),4,sample_0591_volunteer_c_a3_t4.npy
+sample_0592,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a3_5.dat,volunteer_c,3,draw circle (clockwise),5,sample_0592_volunteer_c_a3_t5.npy
+sample_0593,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a3_6.dat,volunteer_c,3,draw circle (clockwise),6,sample_0593_volunteer_c_a3_t6.npy
+sample_0594,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a4_1.dat,volunteer_c,4,draw circle (counterclockwise),1,sample_0594_volunteer_c_a4_t1.npy
+sample_0595,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a4_2.dat,volunteer_c,4,draw circle (counterclockwise),2,sample_0595_volunteer_c_a4_t2.npy
+sample_0596,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a4_3.dat,volunteer_c,4,draw circle (counterclockwise),3,sample_0596_volunteer_c_a4_t3.npy
+sample_0597,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a4_4.dat,volunteer_c,4,draw circle (counterclockwise),4,sample_0597_volunteer_c_a4_t4.npy
+sample_0598,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a4_5.dat,volunteer_c,4,draw circle (counterclockwise),5,sample_0598_volunteer_c_a4_t5.npy
+sample_0599,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a4_6.dat,volunteer_c,4,draw circle (counterclockwise),6,sample_0599_volunteer_c_a4_t6.npy
+sample_0600,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a5_1.dat,volunteer_c,5,draw tick,1,sample_0600_volunteer_c_a5_t1.npy
+sample_0601,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a5_2.dat,volunteer_c,5,draw tick,2,sample_0601_volunteer_c_a5_t2.npy
+sample_0602,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a5_3.dat,volunteer_c,5,draw tick,3,sample_0602_volunteer_c_a5_t3.npy
+sample_0603,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a5_4.dat,volunteer_c,5,draw tick,4,sample_0603_volunteer_c_a5_t4.npy
+sample_0604,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a5_5.dat,volunteer_c,5,draw tick,5,sample_0604_volunteer_c_a5_t5.npy
+sample_0605,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a5_6.dat,volunteer_c,5,draw tick,6,sample_0605_volunteer_c_a5_t6.npy
+sample_0606,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a6_1.dat,volunteer_c,6,draw cross,1,sample_0606_volunteer_c_a6_t1.npy
+sample_0607,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a6_2.dat,volunteer_c,6,draw cross,2,sample_0607_volunteer_c_a6_t2.npy
+sample_0608,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a6_3.dat,volunteer_c,6,draw cross,3,sample_0608_volunteer_c_a6_t3.npy
+sample_0609,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a6_4.dat,volunteer_c,6,draw cross,4,sample_0609_volunteer_c_a6_t4.npy
+sample_0610,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a6_5.dat,volunteer_c,6,draw cross,5,sample_0610_volunteer_c_a6_t5.npy
+sample_0611,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a6_6.dat,volunteer_c,6,draw cross,6,sample_0611_volunteer_c_a6_t6.npy
+sample_0612,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a7_1.dat,volunteer_c,7,come here gesture,1,sample_0612_volunteer_c_a7_t1.npy
+sample_0613,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a7_2.dat,volunteer_c,7,come here gesture,2,sample_0613_volunteer_c_a7_t2.npy
+sample_0614,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a7_3.dat,volunteer_c,7,come here gesture,3,sample_0614_volunteer_c_a7_t3.npy
+sample_0615,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a7_4.dat,volunteer_c,7,come here gesture,4,sample_0615_volunteer_c_a7_t4.npy
+sample_0616,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a7_5.dat,volunteer_c,7,come here gesture,5,sample_0616_volunteer_c_a7_t5.npy
+sample_0617,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a7_6.dat,volunteer_c,7,come here gesture,6,sample_0617_volunteer_c_a7_t6.npy
+sample_0618,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a8_1.dat,volunteer_c,8,wave gesture,1,sample_0618_volunteer_c_a8_t1.npy
+sample_0619,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a8_2.dat,volunteer_c,8,wave gesture,2,sample_0619_volunteer_c_a8_t2.npy
+sample_0620,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a8_3.dat,volunteer_c,8,wave gesture,3,sample_0620_volunteer_c_a8_t3.npy
+sample_0621,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a8_4.dat,volunteer_c,8,wave gesture,4,sample_0621_volunteer_c_a8_t4.npy
+sample_0622,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a8_5.dat,volunteer_c,8,wave gesture,5,sample_0622_volunteer_c_a8_t5.npy
+sample_0623,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a8_6.dat,volunteer_c,8,wave gesture,6,sample_0623_volunteer_c_a8_t6.npy
+sample_0624,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a9_1.dat,volunteer_c,9,bend,1,sample_0624_volunteer_c_a9_t1.npy
+sample_0625,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a9_2.dat,volunteer_c,9,bend,2,sample_0625_volunteer_c_a9_t2.npy
+sample_0626,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a9_3.dat,volunteer_c,9,bend,3,sample_0626_volunteer_c_a9_t3.npy
+sample_0627,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a9_4.dat,volunteer_c,9,bend,4,sample_0627_volunteer_c_a9_t4.npy
+sample_0628,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a9_5.dat,volunteer_c,9,bend,5,sample_0628_volunteer_c_a9_t5.npy
+sample_0629,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a9_6.dat,volunteer_c,9,bend,6,sample_0629_volunteer_c_a9_t6.npy
+sample_0630,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a10_1.dat,volunteer_c,10,squat,1,sample_0630_volunteer_c_a10_t1.npy
+sample_0631,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a10_2.dat,volunteer_c,10,squat,2,sample_0631_volunteer_c_a10_t2.npy
+sample_0632,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a10_3.dat,volunteer_c,10,squat,3,sample_0632_volunteer_c_a10_t3.npy
+sample_0633,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a10_4.dat,volunteer_c,10,squat,4,sample_0633_volunteer_c_a10_t4.npy
+sample_0634,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a10_5.dat,volunteer_c,10,squat,5,sample_0634_volunteer_c_a10_t5.npy
+sample_0635,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a10_6.dat,volunteer_c,10,squat,6,sample_0635_volunteer_c_a10_t6.npy
+sample_0636,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a11_1.dat,volunteer_c,11,walk,1,sample_0636_volunteer_c_a11_t1.npy
+sample_0637,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a11_2.dat,volunteer_c,11,walk,2,sample_0637_volunteer_c_a11_t2.npy
+sample_0638,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a11_3.dat,volunteer_c,11,walk,3,sample_0638_volunteer_c_a11_t3.npy
+sample_0639,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a11_4.dat,volunteer_c,11,walk,4,sample_0639_volunteer_c_a11_t4.npy
+sample_0640,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a11_5.dat,volunteer_c,11,walk,5,sample_0640_volunteer_c_a11_t5.npy
+sample_0641,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a11_6.dat,volunteer_c,11,walk,6,sample_0641_volunteer_c_a11_t6.npy
+sample_0642,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a12_1.dat,volunteer_c,12,fall,1,sample_0642_volunteer_c_a12_t1.npy
+sample_0643,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a12_2.dat,volunteer_c,12,fall,2,sample_0643_volunteer_c_a12_t2.npy
+sample_0644,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a12_3.dat,volunteer_c,12,fall,3,sample_0644_volunteer_c_a12_t3.npy
+sample_0645,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a12_4.dat,volunteer_c,12,fall,4,sample_0645_volunteer_c_a12_t4.npy
+sample_0646,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a12_5.dat,volunteer_c,12,fall,5,sample_0646_volunteer_c_a12_t5.npy
+sample_0647,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a12_6.dat,volunteer_c,12,fall,6,sample_0647_volunteer_c_a12_t6.npy
+sample_0648,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a13_1.dat,volunteer_c,13,run,1,sample_0648_volunteer_c_a13_t1.npy
+sample_0649,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a13_2.dat,volunteer_c,13,run,2,sample_0649_volunteer_c_a13_t2.npy
+sample_0650,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a13_3.dat,volunteer_c,13,run,3,sample_0650_volunteer_c_a13_t3.npy
+sample_0651,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a13_4.dat,volunteer_c,13,run,4,sample_0651_volunteer_c_a13_t4.npy
+sample_0652,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a13_5.dat,volunteer_c,13,run,5,sample_0652_volunteer_c_a13_t5.npy
+sample_0653,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a13_6.dat,volunteer_c,13,run,6,sample_0653_volunteer_c_a13_t6.npy
+sample_0654,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a14_1.dat,volunteer_c,14,sit down,1,sample_0654_volunteer_c_a14_t1.npy
+sample_0655,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a14_2.dat,volunteer_c,14,sit down,2,sample_0655_volunteer_c_a14_t2.npy
+sample_0656,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a14_3.dat,volunteer_c,14,sit down,3,sample_0656_volunteer_c_a14_t3.npy
+sample_0657,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a14_4.dat,volunteer_c,14,sit down,4,sample_0657_volunteer_c_a14_t4.npy
+sample_0658,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a14_5.dat,volunteer_c,14,sit down,5,sample_0658_volunteer_c_a14_t5.npy
+sample_0659,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a14_6.dat,volunteer_c,14,sit down,6,sample_0659_volunteer_c_a14_t6.npy
+sample_0660,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a15_1.dat,volunteer_c,15,stand up,1,sample_0660_volunteer_c_a15_t1.npy
+sample_0661,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a15_2.dat,volunteer_c,15,stand up,2,sample_0661_volunteer_c_a15_t2.npy
+sample_0662,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a15_3.dat,volunteer_c,15,stand up,3,sample_0662_volunteer_c_a15_t3.npy
+sample_0663,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a15_4.dat,volunteer_c,15,stand up,4,sample_0663_volunteer_c_a15_t4.npy
+sample_0664,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a15_5.dat,volunteer_c,15,stand up,5,sample_0664_volunteer_c_a15_t5.npy
+sample_0665,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a15_6.dat,volunteer_c,15,stand up,6,sample_0665_volunteer_c_a15_t6.npy
+sample_0666,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a16_1.dat,volunteer_c,16,pick up,1,sample_0666_volunteer_c_a16_t1.npy
+sample_0667,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a16_2.dat,volunteer_c,16,pick up,2,sample_0667_volunteer_c_a16_t2.npy
+sample_0668,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a16_3.dat,volunteer_c,16,pick up,3,sample_0668_volunteer_c_a16_t3.npy
+sample_0669,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a16_4.dat,volunteer_c,16,pick up,4,sample_0669_volunteer_c_a16_t4.npy
+sample_0670,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a16_5.dat,volunteer_c,16,pick up,5,sample_0670_volunteer_c_a16_t5.npy
+sample_0671,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_c_all_data\volunteer_c_all_data\csi_a16_6.dat,volunteer_c,16,pick up,6,sample_0671_volunteer_c_a16_t6.npy
+sample_0672,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a1_1,volunteer_d,1,horizontal arm wave,1,sample_0672_volunteer_d_a1_t1.npy
+sample_0673,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a1_2,volunteer_d,1,horizontal arm wave,2,sample_0673_volunteer_d_a1_t2.npy
+sample_0674,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a1_3,volunteer_d,1,horizontal arm wave,3,sample_0674_volunteer_d_a1_t3.npy
+sample_0675,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a1_4,volunteer_d,1,horizontal arm wave,4,sample_0675_volunteer_d_a1_t4.npy
+sample_0676,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a1_5,volunteer_d,1,horizontal arm wave,5,sample_0676_volunteer_d_a1_t5.npy
+sample_0677,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a1_6,volunteer_d,1,horizontal arm wave,6,sample_0677_volunteer_d_a1_t6.npy
+sample_0678,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a2_1,volunteer_d,2,vertical arm wave,1,sample_0678_volunteer_d_a2_t1.npy
+sample_0679,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a2_2,volunteer_d,2,vertical arm wave,2,sample_0679_volunteer_d_a2_t2.npy
+sample_0680,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a2_3,volunteer_d,2,vertical arm wave,3,sample_0680_volunteer_d_a2_t3.npy
+sample_0681,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a2_4,volunteer_d,2,vertical arm wave,4,sample_0681_volunteer_d_a2_t4.npy
+sample_0682,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a2_5,volunteer_d,2,vertical arm wave,5,sample_0682_volunteer_d_a2_t5.npy
+sample_0683,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a2_6,volunteer_d,2,vertical arm wave,6,sample_0683_volunteer_d_a2_t6.npy
+sample_0684,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a3_1,volunteer_d,3,draw circle (clockwise),1,sample_0684_volunteer_d_a3_t1.npy
+sample_0685,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a3_2,volunteer_d,3,draw circle (clockwise),2,sample_0685_volunteer_d_a3_t2.npy
+sample_0686,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a3_3,volunteer_d,3,draw circle (clockwise),3,sample_0686_volunteer_d_a3_t3.npy
+sample_0687,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a3_4,volunteer_d,3,draw circle (clockwise),4,sample_0687_volunteer_d_a3_t4.npy
+sample_0688,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a3_5,volunteer_d,3,draw circle (clockwise),5,sample_0688_volunteer_d_a3_t5.npy
+sample_0689,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a3_6,volunteer_d,3,draw circle (clockwise),6,sample_0689_volunteer_d_a3_t6.npy
+sample_0690,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a4_1,volunteer_d,4,draw circle (counterclockwise),1,sample_0690_volunteer_d_a4_t1.npy
+sample_0691,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a4_2,volunteer_d,4,draw circle (counterclockwise),2,sample_0691_volunteer_d_a4_t2.npy
+sample_0692,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a4_3,volunteer_d,4,draw circle (counterclockwise),3,sample_0692_volunteer_d_a4_t3.npy
+sample_0693,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a4_4,volunteer_d,4,draw circle (counterclockwise),4,sample_0693_volunteer_d_a4_t4.npy
+sample_0694,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a4_5,volunteer_d,4,draw circle (counterclockwise),5,sample_0694_volunteer_d_a4_t5.npy
+sample_0695,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a4_6,volunteer_d,4,draw circle (counterclockwise),6,sample_0695_volunteer_d_a4_t6.npy
+sample_0696,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a5_1,volunteer_d,5,draw tick,1,sample_0696_volunteer_d_a5_t1.npy
+sample_0697,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a5_2,volunteer_d,5,draw tick,2,sample_0697_volunteer_d_a5_t2.npy
+sample_0698,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a5_3,volunteer_d,5,draw tick,3,sample_0698_volunteer_d_a5_t3.npy
+sample_0699,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a5_4,volunteer_d,5,draw tick,4,sample_0699_volunteer_d_a5_t4.npy
+sample_0700,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a5_5,volunteer_d,5,draw tick,5,sample_0700_volunteer_d_a5_t5.npy
+sample_0701,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a5_6,volunteer_d,5,draw tick,6,sample_0701_volunteer_d_a5_t6.npy
+sample_0702,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a6_1,volunteer_d,6,draw cross,1,sample_0702_volunteer_d_a6_t1.npy
+sample_0703,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a6_2,volunteer_d,6,draw cross,2,sample_0703_volunteer_d_a6_t2.npy
+sample_0704,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a6_3,volunteer_d,6,draw cross,3,sample_0704_volunteer_d_a6_t3.npy
+sample_0705,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a6_4,volunteer_d,6,draw cross,4,sample_0705_volunteer_d_a6_t4.npy
+sample_0706,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a6_5,volunteer_d,6,draw cross,5,sample_0706_volunteer_d_a6_t5.npy
+sample_0707,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a6_6,volunteer_d,6,draw cross,6,sample_0707_volunteer_d_a6_t6.npy
+sample_0708,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a7_1,volunteer_d,7,come here gesture,1,sample_0708_volunteer_d_a7_t1.npy
+sample_0709,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a7_2,volunteer_d,7,come here gesture,2,sample_0709_volunteer_d_a7_t2.npy
+sample_0710,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a7_3,volunteer_d,7,come here gesture,3,sample_0710_volunteer_d_a7_t3.npy
+sample_0711,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a7_4,volunteer_d,7,come here gesture,4,sample_0711_volunteer_d_a7_t4.npy
+sample_0712,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a7_5,volunteer_d,7,come here gesture,5,sample_0712_volunteer_d_a7_t5.npy
+sample_0713,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a7_6,volunteer_d,7,come here gesture,6,sample_0713_volunteer_d_a7_t6.npy
+sample_0714,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a8_1,volunteer_d,8,wave gesture,1,sample_0714_volunteer_d_a8_t1.npy
+sample_0715,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a8_2,volunteer_d,8,wave gesture,2,sample_0715_volunteer_d_a8_t2.npy
+sample_0716,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a8_3,volunteer_d,8,wave gesture,3,sample_0716_volunteer_d_a8_t3.npy
+sample_0717,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a8_4,volunteer_d,8,wave gesture,4,sample_0717_volunteer_d_a8_t4.npy
+sample_0718,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a8_5,volunteer_d,8,wave gesture,5,sample_0718_volunteer_d_a8_t5.npy
+sample_0719,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a8_6,volunteer_d,8,wave gesture,6,sample_0719_volunteer_d_a8_t6.npy
+sample_0720,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a9_1,volunteer_d,9,bend,1,sample_0720_volunteer_d_a9_t1.npy
+sample_0721,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a9_2,volunteer_d,9,bend,2,sample_0721_volunteer_d_a9_t2.npy
+sample_0722,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a9_3,volunteer_d,9,bend,3,sample_0722_volunteer_d_a9_t3.npy
+sample_0723,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a9_4,volunteer_d,9,bend,4,sample_0723_volunteer_d_a9_t4.npy
+sample_0724,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a9_5,volunteer_d,9,bend,5,sample_0724_volunteer_d_a9_t5.npy
+sample_0725,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a9_6,volunteer_d,9,bend,6,sample_0725_volunteer_d_a9_t6.npy
+sample_0726,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a10_1,volunteer_d,10,squat,1,sample_0726_volunteer_d_a10_t1.npy
+sample_0727,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a10_2,volunteer_d,10,squat,2,sample_0727_volunteer_d_a10_t2.npy
+sample_0728,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a10_3,volunteer_d,10,squat,3,sample_0728_volunteer_d_a10_t3.npy
+sample_0729,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a10_4,volunteer_d,10,squat,4,sample_0729_volunteer_d_a10_t4.npy
+sample_0730,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a10_5,volunteer_d,10,squat,5,sample_0730_volunteer_d_a10_t5.npy
+sample_0731,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a10_6,volunteer_d,10,squat,6,sample_0731_volunteer_d_a10_t6.npy
+sample_0732,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a11_1,volunteer_d,11,walk,1,sample_0732_volunteer_d_a11_t1.npy
+sample_0733,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a11_2,volunteer_d,11,walk,2,sample_0733_volunteer_d_a11_t2.npy
+sample_0734,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a11_3,volunteer_d,11,walk,3,sample_0734_volunteer_d_a11_t3.npy
+sample_0735,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a11_4,volunteer_d,11,walk,4,sample_0735_volunteer_d_a11_t4.npy
+sample_0736,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a11_5,volunteer_d,11,walk,5,sample_0736_volunteer_d_a11_t5.npy
+sample_0737,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_1\volunteerD_1\csi_a11_6,volunteer_d,11,walk,6,sample_0737_volunteer_d_a11_t6.npy
+sample_0738,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a12_1,volunteer_d,12,fall,1,sample_0738_volunteer_d_a12_t1.npy
+sample_0739,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a12_2,volunteer_d,12,fall,2,sample_0739_volunteer_d_a12_t2.npy
+sample_0740,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a12_3,volunteer_d,12,fall,3,sample_0740_volunteer_d_a12_t3.npy
+sample_0741,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a12_4,volunteer_d,12,fall,4,sample_0741_volunteer_d_a12_t4.npy
+sample_0742,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a12_5,volunteer_d,12,fall,5,sample_0742_volunteer_d_a12_t5.npy
+sample_0743,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a12_6,volunteer_d,12,fall,6,sample_0743_volunteer_d_a12_t6.npy
+sample_0744,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a13_1,volunteer_d,13,run,1,sample_0744_volunteer_d_a13_t1.npy
+sample_0745,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a13_2,volunteer_d,13,run,2,sample_0745_volunteer_d_a13_t2.npy
+sample_0746,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a13_3,volunteer_d,13,run,3,sample_0746_volunteer_d_a13_t3.npy
+sample_0747,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a13_4,volunteer_d,13,run,4,sample_0747_volunteer_d_a13_t4.npy
+sample_0748,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a13_5,volunteer_d,13,run,5,sample_0748_volunteer_d_a13_t5.npy
+sample_0749,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a13_6,volunteer_d,13,run,6,sample_0749_volunteer_d_a13_t6.npy
+sample_0750,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a14_1,volunteer_d,14,sit down,1,sample_0750_volunteer_d_a14_t1.npy
+sample_0751,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a14_2,volunteer_d,14,sit down,2,sample_0751_volunteer_d_a14_t2.npy
+sample_0752,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a14_3,volunteer_d,14,sit down,3,sample_0752_volunteer_d_a14_t3.npy
+sample_0753,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a14_4,volunteer_d,14,sit down,4,sample_0753_volunteer_d_a14_t4.npy
+sample_0754,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a14_5,volunteer_d,14,sit down,5,sample_0754_volunteer_d_a14_t5.npy
+sample_0755,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a14_6,volunteer_d,14,sit down,6,sample_0755_volunteer_d_a14_t6.npy
+sample_0756,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a15_1,volunteer_d,15,stand up,1,sample_0756_volunteer_d_a15_t1.npy
+sample_0757,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a15_2,volunteer_d,15,stand up,2,sample_0757_volunteer_d_a15_t2.npy
+sample_0758,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a15_3,volunteer_d,15,stand up,3,sample_0758_volunteer_d_a15_t3.npy
+sample_0759,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a15_4,volunteer_d,15,stand up,4,sample_0759_volunteer_d_a15_t4.npy
+sample_0760,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a15_5,volunteer_d,15,stand up,5,sample_0760_volunteer_d_a15_t5.npy
+sample_0761,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a15_6,volunteer_d,15,stand up,6,sample_0761_volunteer_d_a15_t6.npy
+sample_0762,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a16_1,volunteer_d,16,pick up,1,sample_0762_volunteer_d_a16_t1.npy
+sample_0763,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a16_2,volunteer_d,16,pick up,2,sample_0763_volunteer_d_a16_t2.npy
+sample_0764,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a16_3,volunteer_d,16,pick up,3,sample_0764_volunteer_d_a16_t3.npy
+sample_0765,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a16_4,volunteer_d,16,pick up,4,sample_0765_volunteer_d_a16_t4.npy
+sample_0766,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a16_5,volunteer_d,16,pick up,5,sample_0766_volunteer_d_a16_t5.npy
+sample_0767,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerD_2\volunteerD_2\csi_a16_6,volunteer_d,16,pick up,6,sample_0767_volunteer_d_a16_t6.npy
+sample_0768,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a1_1,volunteer_e,1,horizontal arm wave,1,sample_0768_volunteer_e_a1_t1.npy
+sample_0769,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a1_2,volunteer_e,1,horizontal arm wave,2,sample_0769_volunteer_e_a1_t2.npy
+sample_0770,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a1_3,volunteer_e,1,horizontal arm wave,3,sample_0770_volunteer_e_a1_t3.npy
+sample_0771,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a1_4,volunteer_e,1,horizontal arm wave,4,sample_0771_volunteer_e_a1_t4.npy
+sample_0772,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a1_5,volunteer_e,1,horizontal arm wave,5,sample_0772_volunteer_e_a1_t5.npy
+sample_0773,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a1_6,volunteer_e,1,horizontal arm wave,6,sample_0773_volunteer_e_a1_t6.npy
+sample_0774,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a2_1,volunteer_e,2,vertical arm wave,1,sample_0774_volunteer_e_a2_t1.npy
+sample_0775,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a2_2,volunteer_e,2,vertical arm wave,2,sample_0775_volunteer_e_a2_t2.npy
+sample_0776,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a2_3,volunteer_e,2,vertical arm wave,3,sample_0776_volunteer_e_a2_t3.npy
+sample_0777,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a2_4,volunteer_e,2,vertical arm wave,4,sample_0777_volunteer_e_a2_t4.npy
+sample_0778,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a2_5,volunteer_e,2,vertical arm wave,5,sample_0778_volunteer_e_a2_t5.npy
+sample_0779,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a2_6,volunteer_e,2,vertical arm wave,6,sample_0779_volunteer_e_a2_t6.npy
+sample_0780,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a3_1,volunteer_e,3,draw circle (clockwise),1,sample_0780_volunteer_e_a3_t1.npy
+sample_0781,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a3_2,volunteer_e,3,draw circle (clockwise),2,sample_0781_volunteer_e_a3_t2.npy
+sample_0782,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a3_3,volunteer_e,3,draw circle (clockwise),3,sample_0782_volunteer_e_a3_t3.npy
+sample_0783,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a3_4,volunteer_e,3,draw circle (clockwise),4,sample_0783_volunteer_e_a3_t4.npy
+sample_0784,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a3_5,volunteer_e,3,draw circle (clockwise),5,sample_0784_volunteer_e_a3_t5.npy
+sample_0785,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a3_6,volunteer_e,3,draw circle (clockwise),6,sample_0785_volunteer_e_a3_t6.npy
+sample_0786,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a4_1,volunteer_e,4,draw circle (counterclockwise),1,sample_0786_volunteer_e_a4_t1.npy
+sample_0787,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a4_2,volunteer_e,4,draw circle (counterclockwise),2,sample_0787_volunteer_e_a4_t2.npy
+sample_0788,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a4_3,volunteer_e,4,draw circle (counterclockwise),3,sample_0788_volunteer_e_a4_t3.npy
+sample_0789,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a4_4,volunteer_e,4,draw circle (counterclockwise),4,sample_0789_volunteer_e_a4_t4.npy
+sample_0790,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a4_5,volunteer_e,4,draw circle (counterclockwise),5,sample_0790_volunteer_e_a4_t5.npy
+sample_0791,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a4_6,volunteer_e,4,draw circle (counterclockwise),6,sample_0791_volunteer_e_a4_t6.npy
+sample_0792,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a5_1,volunteer_e,5,draw tick,1,sample_0792_volunteer_e_a5_t1.npy
+sample_0793,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a5_2,volunteer_e,5,draw tick,2,sample_0793_volunteer_e_a5_t2.npy
+sample_0794,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a5_3,volunteer_e,5,draw tick,3,sample_0794_volunteer_e_a5_t3.npy
+sample_0795,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a5_4,volunteer_e,5,draw tick,4,sample_0795_volunteer_e_a5_t4.npy
+sample_0796,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a5_5,volunteer_e,5,draw tick,5,sample_0796_volunteer_e_a5_t5.npy
+sample_0797,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a5_6,volunteer_e,5,draw tick,6,sample_0797_volunteer_e_a5_t6.npy
+sample_0798,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a6_1,volunteer_e,6,draw cross,1,sample_0798_volunteer_e_a6_t1.npy
+sample_0799,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a6_2,volunteer_e,6,draw cross,2,sample_0799_volunteer_e_a6_t2.npy
+sample_0800,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a6_3,volunteer_e,6,draw cross,3,sample_0800_volunteer_e_a6_t3.npy
+sample_0801,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a6_4,volunteer_e,6,draw cross,4,sample_0801_volunteer_e_a6_t4.npy
+sample_0802,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a6_5,volunteer_e,6,draw cross,5,sample_0802_volunteer_e_a6_t5.npy
+sample_0803,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a6_6,volunteer_e,6,draw cross,6,sample_0803_volunteer_e_a6_t6.npy
+sample_0804,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a7_1,volunteer_e,7,come here gesture,1,sample_0804_volunteer_e_a7_t1.npy
+sample_0805,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a7_2,volunteer_e,7,come here gesture,2,sample_0805_volunteer_e_a7_t2.npy
+sample_0806,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a7_3,volunteer_e,7,come here gesture,3,sample_0806_volunteer_e_a7_t3.npy
+sample_0807,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a7_4,volunteer_e,7,come here gesture,4,sample_0807_volunteer_e_a7_t4.npy
+sample_0808,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a7_5,volunteer_e,7,come here gesture,5,sample_0808_volunteer_e_a7_t5.npy
+sample_0809,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a7_6,volunteer_e,7,come here gesture,6,sample_0809_volunteer_e_a7_t6.npy
+sample_0810,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a8_1,volunteer_e,8,wave gesture,1,sample_0810_volunteer_e_a8_t1.npy
+sample_0811,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a8_2,volunteer_e,8,wave gesture,2,sample_0811_volunteer_e_a8_t2.npy
+sample_0812,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a8_3,volunteer_e,8,wave gesture,3,sample_0812_volunteer_e_a8_t3.npy
+sample_0813,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a8_4,volunteer_e,8,wave gesture,4,sample_0813_volunteer_e_a8_t4.npy
+sample_0814,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a8_5,volunteer_e,8,wave gesture,5,sample_0814_volunteer_e_a8_t5.npy
+sample_0815,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a8_6,volunteer_e,8,wave gesture,6,sample_0815_volunteer_e_a8_t6.npy
+sample_0816,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a9_1,volunteer_e,9,bend,1,sample_0816_volunteer_e_a9_t1.npy
+sample_0817,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a9_2,volunteer_e,9,bend,2,sample_0817_volunteer_e_a9_t2.npy
+sample_0818,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a9_3,volunteer_e,9,bend,3,sample_0818_volunteer_e_a9_t3.npy
+sample_0819,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a9_4,volunteer_e,9,bend,4,sample_0819_volunteer_e_a9_t4.npy
+sample_0820,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a9_5,volunteer_e,9,bend,5,sample_0820_volunteer_e_a9_t5.npy
+sample_0821,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a9_6,volunteer_e,9,bend,6,sample_0821_volunteer_e_a9_t6.npy
+sample_0822,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a10_1,volunteer_e,10,squat,1,sample_0822_volunteer_e_a10_t1.npy
+sample_0823,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a10_2,volunteer_e,10,squat,2,sample_0823_volunteer_e_a10_t2.npy
+sample_0824,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a10_3,volunteer_e,10,squat,3,sample_0824_volunteer_e_a10_t3.npy
+sample_0825,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a10_4,volunteer_e,10,squat,4,sample_0825_volunteer_e_a10_t4.npy
+sample_0826,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a10_5,volunteer_e,10,squat,5,sample_0826_volunteer_e_a10_t5.npy
+sample_0827,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_1\volunteerE_1\csi_a10_6,volunteer_e,10,squat,6,sample_0827_volunteer_e_a10_t6.npy
+sample_0828,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a11_1,volunteer_e,11,walk,1,sample_0828_volunteer_e_a11_t1.npy
+sample_0829,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a11_2,volunteer_e,11,walk,2,sample_0829_volunteer_e_a11_t2.npy
+sample_0830,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a11_3,volunteer_e,11,walk,3,sample_0830_volunteer_e_a11_t3.npy
+sample_0831,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a11_4,volunteer_e,11,walk,4,sample_0831_volunteer_e_a11_t4.npy
+sample_0832,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a11_5,volunteer_e,11,walk,5,sample_0832_volunteer_e_a11_t5.npy
+sample_0833,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a11_6,volunteer_e,11,walk,6,sample_0833_volunteer_e_a11_t6.npy
+sample_0834,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a12_1,volunteer_e,12,fall,1,sample_0834_volunteer_e_a12_t1.npy
+sample_0835,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a12_2,volunteer_e,12,fall,2,sample_0835_volunteer_e_a12_t2.npy
+sample_0836,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a12_3,volunteer_e,12,fall,3,sample_0836_volunteer_e_a12_t3.npy
+sample_0837,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a12_4,volunteer_e,12,fall,4,sample_0837_volunteer_e_a12_t4.npy
+sample_0838,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a12_5,volunteer_e,12,fall,5,sample_0838_volunteer_e_a12_t5.npy
+sample_0839,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a12_6,volunteer_e,12,fall,6,sample_0839_volunteer_e_a12_t6.npy
+sample_0840,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a13_1,volunteer_e,13,run,1,sample_0840_volunteer_e_a13_t1.npy
+sample_0841,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a13_2,volunteer_e,13,run,2,sample_0841_volunteer_e_a13_t2.npy
+sample_0842,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a13_3,volunteer_e,13,run,3,sample_0842_volunteer_e_a13_t3.npy
+sample_0843,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a13_4,volunteer_e,13,run,4,sample_0843_volunteer_e_a13_t4.npy
+sample_0844,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a13_5,volunteer_e,13,run,5,sample_0844_volunteer_e_a13_t5.npy
+sample_0845,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a13_6,volunteer_e,13,run,6,sample_0845_volunteer_e_a13_t6.npy
+sample_0846,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a14_1,volunteer_e,14,sit down,1,sample_0846_volunteer_e_a14_t1.npy
+sample_0847,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a14_2,volunteer_e,14,sit down,2,sample_0847_volunteer_e_a14_t2.npy
+sample_0848,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a14_3,volunteer_e,14,sit down,3,sample_0848_volunteer_e_a14_t3.npy
+sample_0849,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a14_4,volunteer_e,14,sit down,4,sample_0849_volunteer_e_a14_t4.npy
+sample_0850,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a14_5,volunteer_e,14,sit down,5,sample_0850_volunteer_e_a14_t5.npy
+sample_0851,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a14_6,volunteer_e,14,sit down,6,sample_0851_volunteer_e_a14_t6.npy
+sample_0852,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a15_1,volunteer_e,15,stand up,1,sample_0852_volunteer_e_a15_t1.npy
+sample_0853,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a15_2,volunteer_e,15,stand up,2,sample_0853_volunteer_e_a15_t2.npy
+sample_0854,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a15_3,volunteer_e,15,stand up,3,sample_0854_volunteer_e_a15_t3.npy
+sample_0855,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a15_4,volunteer_e,15,stand up,4,sample_0855_volunteer_e_a15_t4.npy
+sample_0856,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a15_5,volunteer_e,15,stand up,5,sample_0856_volunteer_e_a15_t5.npy
+sample_0857,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a15_6,volunteer_e,15,stand up,6,sample_0857_volunteer_e_a15_t6.npy
+sample_0858,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a16_1,volunteer_e,16,pick up,1,sample_0858_volunteer_e_a16_t1.npy
+sample_0859,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a16_2,volunteer_e,16,pick up,2,sample_0859_volunteer_e_a16_t2.npy
+sample_0860,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a16_3,volunteer_e,16,pick up,3,sample_0860_volunteer_e_a16_t3.npy
+sample_0861,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a16_4,volunteer_e,16,pick up,4,sample_0861_volunteer_e_a16_t4.npy
+sample_0862,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a16_5,volunteer_e,16,pick up,5,sample_0862_volunteer_e_a16_t5.npy
+sample_0863,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteerE_2\volunteerE_2\csi_a16_6,volunteer_e,16,pick up,6,sample_0863_volunteer_e_a16_t6.npy
+sample_0864,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a1_1.dat,volunteer_f,1,horizontal arm wave,1,sample_0864_volunteer_f_a1_t1.npy
+sample_0865,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a1_2.dat,volunteer_f,1,horizontal arm wave,2,sample_0865_volunteer_f_a1_t2.npy
+sample_0866,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a1_3.dat,volunteer_f,1,horizontal arm wave,3,sample_0866_volunteer_f_a1_t3.npy
+sample_0867,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a1_4.dat,volunteer_f,1,horizontal arm wave,4,sample_0867_volunteer_f_a1_t4.npy
+sample_0868,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a1_5.dat,volunteer_f,1,horizontal arm wave,5,sample_0868_volunteer_f_a1_t5.npy
+sample_0869,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a1_6.dat,volunteer_f,1,horizontal arm wave,6,sample_0869_volunteer_f_a1_t6.npy
+sample_0870,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a2_1.dat,volunteer_f,2,vertical arm wave,1,sample_0870_volunteer_f_a2_t1.npy
+sample_0871,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a2_2.dat,volunteer_f,2,vertical arm wave,2,sample_0871_volunteer_f_a2_t2.npy
+sample_0872,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a2_3.dat,volunteer_f,2,vertical arm wave,3,sample_0872_volunteer_f_a2_t3.npy
+sample_0873,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a2_4.dat,volunteer_f,2,vertical arm wave,4,sample_0873_volunteer_f_a2_t4.npy
+sample_0874,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a2_5.dat,volunteer_f,2,vertical arm wave,5,sample_0874_volunteer_f_a2_t5.npy
+sample_0875,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a2_6.dat,volunteer_f,2,vertical arm wave,6,sample_0875_volunteer_f_a2_t6.npy
+sample_0876,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a3_1.dat,volunteer_f,3,draw circle (clockwise),1,sample_0876_volunteer_f_a3_t1.npy
+sample_0877,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a3_2.dat,volunteer_f,3,draw circle (clockwise),2,sample_0877_volunteer_f_a3_t2.npy
+sample_0878,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a3_3.dat,volunteer_f,3,draw circle (clockwise),3,sample_0878_volunteer_f_a3_t3.npy
+sample_0879,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a3_4.dat,volunteer_f,3,draw circle (clockwise),4,sample_0879_volunteer_f_a3_t4.npy
+sample_0880,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a3_5.dat,volunteer_f,3,draw circle (clockwise),5,sample_0880_volunteer_f_a3_t5.npy
+sample_0881,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a3_6.dat,volunteer_f,3,draw circle (clockwise),6,sample_0881_volunteer_f_a3_t6.npy
+sample_0882,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a4_1.dat,volunteer_f,4,draw circle (counterclockwise),1,sample_0882_volunteer_f_a4_t1.npy
+sample_0883,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a4_2.dat,volunteer_f,4,draw circle (counterclockwise),2,sample_0883_volunteer_f_a4_t2.npy
+sample_0884,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a4_3.dat,volunteer_f,4,draw circle (counterclockwise),3,sample_0884_volunteer_f_a4_t3.npy
+sample_0885,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a4_4.dat,volunteer_f,4,draw circle (counterclockwise),4,sample_0885_volunteer_f_a4_t4.npy
+sample_0886,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a4_5.dat,volunteer_f,4,draw circle (counterclockwise),5,sample_0886_volunteer_f_a4_t5.npy
+sample_0887,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a4_6.dat,volunteer_f,4,draw circle (counterclockwise),6,sample_0887_volunteer_f_a4_t6.npy
+sample_0888,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a5_1.dat,volunteer_f,5,draw tick,1,sample_0888_volunteer_f_a5_t1.npy
+sample_0889,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a5_2.dat,volunteer_f,5,draw tick,2,sample_0889_volunteer_f_a5_t2.npy
+sample_0890,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a5_3.dat,volunteer_f,5,draw tick,3,sample_0890_volunteer_f_a5_t3.npy
+sample_0891,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a5_4.dat,volunteer_f,5,draw tick,4,sample_0891_volunteer_f_a5_t4.npy
+sample_0892,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a5_5.dat,volunteer_f,5,draw tick,5,sample_0892_volunteer_f_a5_t5.npy
+sample_0893,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a5_6.dat,volunteer_f,5,draw tick,6,sample_0893_volunteer_f_a5_t6.npy
+sample_0894,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a6_1.dat,volunteer_f,6,draw cross,1,sample_0894_volunteer_f_a6_t1.npy
+sample_0895,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a6_2.dat,volunteer_f,6,draw cross,2,sample_0895_volunteer_f_a6_t2.npy
+sample_0896,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a6_3.dat,volunteer_f,6,draw cross,3,sample_0896_volunteer_f_a6_t3.npy
+sample_0897,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a6_4.dat,volunteer_f,6,draw cross,4,sample_0897_volunteer_f_a6_t4.npy
+sample_0898,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a6_5.dat,volunteer_f,6,draw cross,5,sample_0898_volunteer_f_a6_t5.npy
+sample_0899,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a6_6.dat,volunteer_f,6,draw cross,6,sample_0899_volunteer_f_a6_t6.npy
+sample_0900,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a7_1.dat,volunteer_f,7,come here gesture,1,sample_0900_volunteer_f_a7_t1.npy
+sample_0901,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a7_2.dat,volunteer_f,7,come here gesture,2,sample_0901_volunteer_f_a7_t2.npy
+sample_0902,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a7_3.dat,volunteer_f,7,come here gesture,3,sample_0902_volunteer_f_a7_t3.npy
+sample_0903,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a7_4.dat,volunteer_f,7,come here gesture,4,sample_0903_volunteer_f_a7_t4.npy
+sample_0904,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a7_5.dat,volunteer_f,7,come here gesture,5,sample_0904_volunteer_f_a7_t5.npy
+sample_0905,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a7_6.dat,volunteer_f,7,come here gesture,6,sample_0905_volunteer_f_a7_t6.npy
+sample_0906,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a8_1.dat,volunteer_f,8,wave gesture,1,sample_0906_volunteer_f_a8_t1.npy
+sample_0907,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a8_2.dat,volunteer_f,8,wave gesture,2,sample_0907_volunteer_f_a8_t2.npy
+sample_0908,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a8_3.dat,volunteer_f,8,wave gesture,3,sample_0908_volunteer_f_a8_t3.npy
+sample_0909,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a8_4.dat,volunteer_f,8,wave gesture,4,sample_0909_volunteer_f_a8_t4.npy
+sample_0910,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a8_5.dat,volunteer_f,8,wave gesture,5,sample_0910_volunteer_f_a8_t5.npy
+sample_0911,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a8_6.dat,volunteer_f,8,wave gesture,6,sample_0911_volunteer_f_a8_t6.npy
+sample_0912,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a9_1.dat,volunteer_f,9,bend,1,sample_0912_volunteer_f_a9_t1.npy
+sample_0913,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a9_2.dat,volunteer_f,9,bend,2,sample_0913_volunteer_f_a9_t2.npy
+sample_0914,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a9_3.dat,volunteer_f,9,bend,3,sample_0914_volunteer_f_a9_t3.npy
+sample_0915,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a9_4.dat,volunteer_f,9,bend,4,sample_0915_volunteer_f_a9_t4.npy
+sample_0916,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a9_5.dat,volunteer_f,9,bend,5,sample_0916_volunteer_f_a9_t5.npy
+sample_0917,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a9_6.dat,volunteer_f,9,bend,6,sample_0917_volunteer_f_a9_t6.npy
+sample_0918,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a10_1.dat,volunteer_f,10,squat,1,sample_0918_volunteer_f_a10_t1.npy
+sample_0919,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a10_2.dat,volunteer_f,10,squat,2,sample_0919_volunteer_f_a10_t2.npy
+sample_0920,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a10_3.dat,volunteer_f,10,squat,3,sample_0920_volunteer_f_a10_t3.npy
+sample_0921,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a10_4.dat,volunteer_f,10,squat,4,sample_0921_volunteer_f_a10_t4.npy
+sample_0922,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a10_5.dat,volunteer_f,10,squat,5,sample_0922_volunteer_f_a10_t5.npy
+sample_0923,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a10_6.dat,volunteer_f,10,squat,6,sample_0923_volunteer_f_a10_t6.npy
+sample_0924,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a11_1.dat,volunteer_f,11,walk,1,sample_0924_volunteer_f_a11_t1.npy
+sample_0925,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a11_2.dat,volunteer_f,11,walk,2,sample_0925_volunteer_f_a11_t2.npy
+sample_0926,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a11_3.dat,volunteer_f,11,walk,3,sample_0926_volunteer_f_a11_t3.npy
+sample_0927,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a11_4.dat,volunteer_f,11,walk,4,sample_0927_volunteer_f_a11_t4.npy
+sample_0928,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a11_5.dat,volunteer_f,11,walk,5,sample_0928_volunteer_f_a11_t5.npy
+sample_0929,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a11_6.dat,volunteer_f,11,walk,6,sample_0929_volunteer_f_a11_t6.npy
+sample_0930,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a12_1.dat,volunteer_f,12,fall,1,sample_0930_volunteer_f_a12_t1.npy
+sample_0931,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a12_2.dat,volunteer_f,12,fall,2,sample_0931_volunteer_f_a12_t2.npy
+sample_0932,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a12_3.dat,volunteer_f,12,fall,3,sample_0932_volunteer_f_a12_t3.npy
+sample_0933,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a12_4.dat,volunteer_f,12,fall,4,sample_0933_volunteer_f_a12_t4.npy
+sample_0934,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a12_5.dat,volunteer_f,12,fall,5,sample_0934_volunteer_f_a12_t5.npy
+sample_0935,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a12_6.dat,volunteer_f,12,fall,6,sample_0935_volunteer_f_a12_t6.npy
+sample_0936,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a13_1.dat,volunteer_f,13,run,1,sample_0936_volunteer_f_a13_t1.npy
+sample_0937,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a13_2.dat,volunteer_f,13,run,2,sample_0937_volunteer_f_a13_t2.npy
+sample_0938,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a13_3.dat,volunteer_f,13,run,3,sample_0938_volunteer_f_a13_t3.npy
+sample_0939,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a13_4.dat,volunteer_f,13,run,4,sample_0939_volunteer_f_a13_t4.npy
+sample_0940,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a13_5.dat,volunteer_f,13,run,5,sample_0940_volunteer_f_a13_t5.npy
+sample_0941,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a13_6.dat,volunteer_f,13,run,6,sample_0941_volunteer_f_a13_t6.npy
+sample_0942,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a14_1.dat,volunteer_f,14,sit down,1,sample_0942_volunteer_f_a14_t1.npy
+sample_0943,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a14_2.dat,volunteer_f,14,sit down,2,sample_0943_volunteer_f_a14_t2.npy
+sample_0944,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a14_3.dat,volunteer_f,14,sit down,3,sample_0944_volunteer_f_a14_t3.npy
+sample_0945,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a14_4.dat,volunteer_f,14,sit down,4,sample_0945_volunteer_f_a14_t4.npy
+sample_0946,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a14_5.dat,volunteer_f,14,sit down,5,sample_0946_volunteer_f_a14_t5.npy
+sample_0947,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a14_6.dat,volunteer_f,14,sit down,6,sample_0947_volunteer_f_a14_t6.npy
+sample_0948,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a15_1.dat,volunteer_f,15,stand up,1,sample_0948_volunteer_f_a15_t1.npy
+sample_0949,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a15_2.dat,volunteer_f,15,stand up,2,sample_0949_volunteer_f_a15_t2.npy
+sample_0950,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a15_3.dat,volunteer_f,15,stand up,3,sample_0950_volunteer_f_a15_t3.npy
+sample_0951,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a15_4.dat,volunteer_f,15,stand up,4,sample_0951_volunteer_f_a15_t4.npy
+sample_0952,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a15_5.dat,volunteer_f,15,stand up,5,sample_0952_volunteer_f_a15_t5.npy
+sample_0953,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a15_6.dat,volunteer_f,15,stand up,6,sample_0953_volunteer_f_a15_t6.npy
+sample_0954,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a16_1.dat,volunteer_f,16,pick up,1,sample_0954_volunteer_f_a16_t1.npy
+sample_0955,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a16_2.dat,volunteer_f,16,pick up,2,sample_0955_volunteer_f_a16_t2.npy
+sample_0956,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a16_3.dat,volunteer_f,16,pick up,3,sample_0956_volunteer_f_a16_t3.npy
+sample_0957,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a16_4.dat,volunteer_f,16,pick up,4,sample_0957_volunteer_f_a16_t4.npy
+sample_0958,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a16_5.dat,volunteer_f,16,pick up,5,sample_0958_volunteer_f_a16_t5.npy
+sample_0959,c:/Users/manishkumar.COMPILERX/Downloads/WiAR-master/WiAR-master/data\volunteer_f_all_data\volunteer_f_all_data\csi_a16_6.dat,volunteer_f,16,pick up,6,sample_0959_volunteer_f_a16_t6.npy
