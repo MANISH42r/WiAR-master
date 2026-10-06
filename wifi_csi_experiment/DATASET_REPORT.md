@@ -56,9 +56,9 @@ The dataset contains 16 human activity classes:
 
 - **Filename Structure**: `csi_a{activity_id}_{sample_id}.dat` (or without `.dat` extension in Volunteer D and E folders).
 - **CSI Parsing Tool**: `csiread.Intel` (Intel 5300 802.11n NIC format).
-- **Raw CSI Data Shape per Sample**: `(Npackets, 30 subcarriers, 3 Rx, 2 Tx)`
-- **Total Channels per Packet**: 30 * 3 * 2 = 180 subcarrier channels.
-- **Packet Length Variation**: Samples typically contain between 200 and 600 packets depending on activity duration.
+- **Raw CSI Data Shape per Sample**: `(Npackets, 30 subcarriers, 3 Rx, 1 Tx)` (Hardware Ntx=1 across all 4,161 files).
+- **Total Active Physical Channels per Packet**: 30 subcarriers * 3 Rx * 1 Tx = **90 subcarrier channels**. *(Note: csiread array returns (Npackets, 30, 3, 2), but Tx stream 2 is 100% dead/zero data in WiAR dataset).*
+- **Packet Length Variation**: Samples typically contain between 150 and 600 packets depending on activity duration.
 
 ---
 
